@@ -1,0 +1,1001 @@
+gender;category;sub_category;material;name;price;style_id
+Women;Tailoring;Dress Shirts;Silk;Moyer;108.0;0EUARMLHUJ
+Women;Sweatshirts;Graphic Sweatshirts;Polyester;Collins;67.0;GGIDBTW0ZR
+Men;Tailoring;Vests;Linen;Hunt;118.0;FYOX2SYBJA
+Women;Jackets;Leather Jackets;Cotton;Norton;152.0;KUFSTM8VXD
+Women;Knitwear;Chunky Knits;Cashmere;Williams;75.0;3GAVZ6TFXK
+Men;Jeans;High-Waisted Jeans;Elastane;Leonard;113.0;OJUXDY1TCY
+Men;T-Shirts;Plain Tees;Bamboo;Sanchez;44.0;ZCXWD5B9ZN
+Men;Accessories;Jewelry;Wool;Matthews;66.0;EKT03OKGGZ
+Women;Knitwear;Turtlenecks;Wool;Haas;48.0;BXUGQYKEVV
+Women;Shirts;Dress Shirts;Linen;Tran;55.0;EGDQKCP5O9
+Men;Shirts;Dress Shirts;Rayon;Adams;33.0;ZWJBPTA936
+Women;Accessories;Sunglasses;Cotton;Forbes;26.0;RUUARYFU35
+Men;Sweatshirts;Crew Neck Sweatshirts;Fleece;Bradley;44.0;WKKSCVZI3U
+Men;Shoes;Boots;Leather;Griffin;179.0;EZ3W6PLWUC
+Men;T-Shirts;Long Sleeve Tees;Rayon;Sarah;43.0;BKRMORVDKU
+Men;Sweatshirts;Zip-Up Sweatshirts;Fleece;Turner;69.0;QIC8MTXEVP
+Women;T-Shirts;Polo Shirts;Rayon;Scott;43.0;HLCTFNOXSS
+Men;Shirts;Oxford Shirts;Silk;Garcia;28.0;TMBFCYVBS7
+Men;Accessories;Hats;Synthetic;Navarro;26.0;VVWBF9UBX4
+Women;Shorts;Denim Shorts;Cotton;Larson;40.0;QKP2HPKNLA
+Women;Trousers;Joggers;Suede;Adams;31.0;MBARCFRU05
+Men;Tailoring;Tailored Jackets;Silk;Smith;210.0;FKZRGISFD7
+Women;Tailoring;Tailored Jackets;Wool;Clarke;149.0;Q1PVKZCFXG
+Men;Knitwear;Turtlenecks;Cashmere;Cherry;87.0;RMGEVGNSDT
+Women;Shoes;Loafers;Leather;Garcia;153.0;BVMGGA55V8
+Men;Shoes;Boots;Leather;Carter;108.0;NCKN1ZDJOU
+Men;Accessories;Belts;Leather;Huffman;40.0;LXHVI3IP9Y
+Women;Jeans;Distressed Jeans;Polyester;Padilla;60.0;VJKWVFEZ99
+Women;Jackets;Parkas;Denim;Donald;123.0;OXDICRRC3S
+Women;Jackets;Leather Jackets;Corduroy;Smith;159.0;O2BWC48C1A
+Men;Tailoring;Tuxedos;Corduroy;Kelly;263.0;WACZVAXXYB
+Women;Jackets;Puffer Jackets;Nylon;Fuentes;91.0;LCVJD86FGN
+Women;Accessories;Ties;Leather;Williams;67.0;F9YICRB5XX
+Women;Sweatshirts;Hoodies;Wool;Byrd;76.0;8XKE6UKPAN
+Women;Knitwear;Pullovers;Bamboo;Johnson;59.0;RIICGSGFSG
+Women;Trousers;Cargo Pants;Cotton;Robinson;40.0;V5PPU5ATEN
+Men;Accessories;Watches;Suede;Jordan;63.0;TRWQAFEA5N
+Women;Jackets;Puffer Jackets;Denim;Ayers;153.0;YBLKVZUWNP
+Women;T-Shirts;Henley Shirts;Rayon;Lawson;50.0;UUVG14GLLL
+Women;Tailoring;Suits;Polyester;Davila;195.0;CLMU5DIT7P
+Women;Jackets;Blazers;Suede;Hall;184.0;WTDIPZL8F3
+Women;Sweatshirts;Oversized Sweatshirts;Bamboo;Gonzales;80.0;5GBZS91JNF
+Men;Knitwear;Fine Knit Sweaters;Cotton;Barnes;47.0;EZDW4CKPDO
+Women;Jeans;Slim Fit Jeans;Polyester;Galvan;114.0;BFUGPHAB0W
+Women;Accessories;Hats;Suede;Gordon;34.0;UN2G0NYQWQ
+Men;Jeans;High-Waisted Jeans;Denim;Johnson;86.0;YL6ZDJVEUO
+Men;Jeans;High-Waisted Jeans;Denim;Carter;118.0;A4YTKDDVEH
+Women;Sweatshirts;Hoodies;Wool;King;75.0;HHNYPUMBNX
+Women;Shirts;Flannel Shirts;Cotton;Jennifer;27.0;090DEXRNFZ
+Women;Knitwear;Cardigans;Cashmere;Hart;86.0;BMGEIEU89V
+Women;Shoes;Loafers;Canvas;Lopez;100.0;A832S71WPX
+Men;Accessories;Ties;Suede;Yates;25.0;QEDFSXV8R1
+Men;Knitwear;Cardigans;Cashmere;Burns;41.0;QPWXXWZBRS
+Women;Shorts;Denim Shorts;Linen;Lee;37.0;NWOYTWYEUN
+Men;Shorts;Chino Shorts;Corduroy;Morgan;23.0;SVEFOBUXGT
+Men;Trousers;Dress Pants;Cotton;Thornton;35.0;7HNEHAC6FP
+Women;Knitwear;Cardigans;Cashmere;Clark;64.0;O4ODKFTTFF
+Women;Shoes;Running Shoes;Canvas;Arias;81.0;5LOZSM6GHT
+Women;Jeans;Straight Leg Jeans;Cotton;Donaldson;109.0;L4SR3XPWII
+Men;Shirts;Hawaiian Shirts;Cotton;Thompson;41.0;GSUQJUWLHW
+Women;Jeans;Bootcut Jeans;Polyester;Kennedy;41.0;ITGWKHBHGY
+Men;Jackets;Leather Jackets;Cotton;Nash;89.0;52MMJGWVDG
+Men;Knitwear;Chunky Knits;Acrylic;Williams;47.0;ZBXDYHP2WB
+Men;Jeans;High-Waisted Jeans;Elastane;Lopez;115.0;BAEJDEYLD9
+Women;Sweatshirts;Zip-Up Sweatshirts;Bamboo;Summers;42.0;Y5TUS7KZJO
+Women;Knitwear;Turtlenecks;Acrylic;King;90.0;7YT6UAXUAD
+Women;Jeans;Slim Fit Jeans;Denim;Kim;78.0;ABDBLHYMAG
+Men;Shirts;Hawaiian Shirts;Polyester;Patton;35.0;ZWJNNFS3EW
+Women;Accessories;Jewelry;Suede;Murphy;57.0;DUKZUN0QO7
+Men;Jeans;Skinny Jeans;Corduroy;Cook;51.0;CHEYVDJFNU
+Men;T-Shirts;Graphic Tees;Polyester;Diaz;31.0;ZHP0XFQDC1
+Women;Jackets;Blazers;Cotton;Valdez;235.0;BI5MEOYQPC
+Men;Shorts;Cargo Shorts;Cotton;Carroll;47.0;BTNVDCXNJK
+Men;Accessories;Wallets;Silk;Walker;20.0;YMZTHMGUF5
+Women;Shoes;Running Shoes;Rubber;Gutierrez;154.0;OJOSWJDRS4
+Women;Shirts;Linen Shirts;Corduroy;Moore;44.0;506M6UUIG5
+Women;Jackets;Denim Jackets;Suede;Delacruz;199.0;CXKMEU4TUV
+Women;Trousers;Cropped Trousers;Wool;Santos;61.0;DPFL2STY8L
+Women;Trousers;Wide-Leg Trousers;Viscose;Ferguson;74.0;0MCCW9CWJ2
+Women;Shirts;Flannel Shirts;Linen;Rivers;71.0;G80JZKIVQF
+Men;Trousers;Cargo Pants;Viscose;Young;40.0;B2PLS4ZXSX
+Women;Sweatshirts;Graphic Sweatshirts;Bamboo;Gordon;71.0;NPGTG4TYFP
+Men;Shorts;Leather Shorts;Corduroy;Morgan;49.0;FMHV7EVEX0
+Men;Tailoring;Tailored Jackets;Polyester;Payne;252.0;FNRPDZQTUI
+Women;Knitwear;Turtlenecks;Wool;Lawson;77.0;I4CPKUUF1A
+Women;Knitwear;Cardigans;Bamboo;Chavez;36.0;0X05EJLYNF
+Men;Tailoring;Vests;Linen;Byrd;177.0;NWXVWQUY4G
+Women;Jeans;Skinny Jeans;Elastane;Garcia;104.0;4UOWNSKKQZ
+Women;Jackets;Parkas;Cotton;Mays;148.0;BUVCDDIFIW
+Men;Sweatshirts;Crew Neck Sweatshirts;Bamboo;King;70.0;2HE9WSDTEH
+Women;Shorts;Bermuda Shorts;Cotton;Young;41.0;SHT3LWLUSY
+Women;T-Shirts;Plain Tees;Cotton;Wheeler;16.0;FIPDJ4ABMT
+Women;Shorts;Leather Shorts;Polyester;Coleman;52.0;U0ICCYYHXT
+Men;Sweatshirts;Fleece Sweatshirts;Fleece;Martin;71.0;DC9TLHPRFM
+Women;Sweatshirts;Hoodies;Cotton;Harding;36.0;FZTMDFRCOL
+Men;Jeans;Bootcut Jeans;Cotton;Walton;93.0;IRACKV3HPQ
+Men;Trousers;Cropped Trousers;Cotton;Smith;87.0;TIS1EZ5Q3K
+Women;Sweatshirts;Hoodies;Cotton;Miller;36.0;J1YSYCGHFJ
+Men;Tailoring;Tuxedos;Polyester;Allen;175.0;WMMDABBQWU
+Men;Jackets;Windbreakers;Corduroy;Sherman;221.0;891OWLFFBG
+Men;Jeans;Straight Leg Jeans;Corduroy;Moore;95.0;JF5FNEM2JL
+Women;Shoes;Derbys;Suede;James;155.0;Q3M9FULOCU
+Women;Tailoring;Vests;Wool;Miller;178.0;EZZCYDF0Q0
+Men;Accessories;Cufflinks;Cotton;Roberts;24.0;W4BCXQJU2U
+Men;Tailoring;Suits;Wool;Johnson;209.0;EF8CHQGPDV
+Men;Jackets;Blazers;Suede;Yang;71.0;EFK0UXSEJB
+Women;Trousers;Cargo Pants;Suede;Valdez;36.0;ZC38IPNCSS
+Men;Jeans;High-Waisted Jeans;Cotton;Lowery;85.0;JWXWBPQTLA
+Men;Knitwear;Sweater Vests;Cashmere;Powers;68.0;6AA5TO7V3P
+Women;T-Shirts;Plain Tees;Polyester;Dickson;47.0;MXLLBFIQTN
+Men;Jackets;Parkas;Polyester;Miranda;130.0;XPCK7WKLMR
+Women;Shirts;Dress Shirts;Polyester;Green;68.0;AR69WYDBVV
+Women;Sweatshirts;Graphic Sweatshirts;Wool;Hale;80.0;DZQULEJRTC
+Women;Sweatshirts;Fleece Sweatshirts;Wool;Williams;58.0;F5L7ZRGMKO
+Women;Jeans;Distressed Jeans;Polyester;West;104.0;ANORASYXSL
+Men;Jackets;Puffer Jackets;Polyester;Taylor;171.0;ELQPU0UHNC
+Women;Trousers;Dress Pants;Wool;Brown;32.0;JR9X0R7GLG
+Women;T-Shirts;Long Sleeve Tees;Linen;Mccarthy;20.0;7HM7TEZ4M5
+Men;Jackets;Denim Jackets;Denim;Wood;196.0;CRZVCPDHWH
+Women;Knitwear;Sweater Vests;Bamboo;Wilson;94.0;RTWNWEUUUA
+Men;Shoes;Loafers;Synthetic;Miles;181.0;DV6EVTF6KX
+Women;Jeans;Distressed Jeans;Cotton;Brown;101.0;HGJO45XVRF
+Women;Shorts;Board Shorts;Denim;Bowers;45.0;GFPGOCZROD
+Women;Jeans;Slim Fit Jeans;Denim;Smith;88.0;BNHRJCDOH2
+Women;Shoes;Sandals;Rubber;Hernandez;99.0;OODGKBG5EK
+Men;Jackets;Puffer Jackets;Corduroy;Miller;240.0;IG9BZCNE1N
+Women;T-Shirts;Polo Shirts;Rayon;Myers;33.0;TZXOKQSN4B
+Women;Sweatshirts;Hoodies;Bamboo;Bennett;87.0;MTDZQUUCPT
+Women;Jackets;Leather Jackets;Polyester;Hernandez;247.0;2TLQ0DYEJ2
+Women;Trousers;Wide-Leg Trousers;Corduroy;Goodwin;82.0;B7NJTX6JXY
+Men;Accessories;Ties;Synthetic;Robles;49.0;AUA0N9RUNB
+Men;Trousers;Slim Fit Trousers;Suede;Hobbs;58.0;ZREJTDP2QJ
+Men;T-Shirts;Polo Shirts;Rayon;Williams;40.0;6TZOYS5SIC
+Women;Knitwear;Pullovers;Cashmere;Snyder;45.0;25KVCXE3HB
+Men;T-Shirts;Crew Neck T-Shirts;Bamboo;Phillips;22.0;4CDPZ7LJNF
+Women;T-Shirts;Plain Tees;Polyester;Leonard;16.0;XG61OKXKKH
+Men;Accessories;Bags;Suede;Roberts;41.0;B6RWPZGWVR
+Women;Shirts;Hawaiian Shirts;Linen;Torres;34.0;BFFGZRWKDR
+Men;Sweatshirts;Zip-Up Sweatshirts;Fleece;Wilson;36.0;OJPBCBGTWY
+Women;Sweatshirts;Fleece Sweatshirts;Polyester;Jackson;75.0;R7TX597QOJ
+Men;Trousers;Slim Fit Trousers;Wool;Dean;33.0;CXUJPZTRY2
+Women;Shoes;Dress Shoes;Suede;Ballard;75.0;IMRPBKC9YR
+Men;Shoes;Oxfords;Canvas;Whitaker;65.0;C8CVBW9GIC
+Women;Jeans;Slim Fit Jeans;Polyester;Hanson;78.0;LIVD1BGAQ2
+Men;Jeans;Slim Fit Jeans;Elastane;Bell;70.0;KNPJSRL4IY
+Men;Tailoring;Morning Coats;Silk;Lopez;225.0;BNBS9VDYKT
+Women;Shoes;Sandals;Leather;Kelly;197.0;TSYPIK6XA4
+Men;Shorts;Chino Shorts;Linen;Knight;44.0;RHZTHHQUC0
+Women;Shirts;Hawaiian Shirts;Cotton;Terrell;58.0;7EADBGLZXC
+Women;Jackets;Leather Jackets;Cotton;Schultz;180.0;IUBYYS6YDP
+Men;Trousers;Joggers;Suede;Christopher;33.0;T1IQ6ALTXU
+Men;Knitwear;Chunky Knits;Bamboo;Massey;82.0;7N00RHCHAV
+Men;Jeans;Straight Leg Jeans;Denim;White;66.0;8D24UJ0KTZ
+Women;Accessories;Sunglasses;Leather;Grant;45.0;UMG94XXJ6K
+Women;Accessories;Hats;Synthetic;Taylor;68.0;SOWZHZMG3Y
+Women;T-Shirts;Henley Shirts;Rayon;Munoz;39.0;B24DNDNYFX
+Men;Trousers;Wide-Leg Trousers;Suede;Davis;54.0;LU5PQKIOFF
+Women;Jeans;Bootcut Jeans;Elastane;Todd;60.0;LRQ1WZCWU2
+Men;Shoes;Dress Shoes;Leather;Bennett;153.0;LMKJUX7JBP
+Men;Shorts;Bermuda Shorts;Cotton;Martinez;49.0;JPYOBRXCKT
+Men;Shirts;Dress Shirts;Silk;Larson;33.0;5UOKMLGIUD
+Women;Shirts;Chambray Shirts;Cotton;Banks;54.0;IPGXPHEFUK
+Men;Shirts;Flannel Shirts;Polyester;Steele;50.0;TSHNSZQZKC
+Women;Sweatshirts;Fleece Sweatshirts;Polyester;Delgado;53.0;7FS5TPGMTH
+Women;T-Shirts;Plain Tees;Rayon;Miller;39.0;D3EVPMDJVC
+Men;Shirts;Casual Shirts;Linen;White;55.0;OD3IRCHHNV
+Women;Trousers;Dress Pants;Polyester;Davis;37.0;VZM6Q45K47
+Men;Shoes;Boots;Suede;Martin;133.0;7M8ACM1MPJ
+Men;Jackets;Denim Jackets;Denim;Gomez;220.0;LHT88LNTAP
+Women;Shoes;Derbys;Canvas;Rodriguez;78.0;HMUUOQYYOT
+Women;Knitwear;Fine Knit Sweaters;Acrylic;Bradford;83.0;TQW4E8EFYS
+Women;Tailoring;Suits;Polyester;Williams;249.0;9HXTCXRZL0
+Men;Knitwear;Cardigans;Wool;Burton;88.0;PYWCGMF3C2
+Men;Jackets;Puffer Jackets;Leather;William;204.0;DXQKEG10PW
+Women;Accessories;Wallets;Cotton;Pierce;10.0;KG71GTQE1J
+Men;Knitwear;Chunky Knits;Wool;Walker;44.0;RW0JZWB7KH
+Men;Shoes;Derbys;Rubber;Jackson;60.0;FFQGQBBFUR
+Men;Shoes;Sandals;Leather;Snyder;141.0;OYEI0P12JT
+Men;Jackets;Parkas;Leather;Miller;204.0;GZJD2OCRJE
+Women;Shirts;Chambray Shirts;Rayon;Smith;49.0;MDLSGMISBV
+Women;Shirts;Hawaiian Shirts;Linen;Weeks;40.0;MYVRLL5RXI
+Men;Shoes;Sneakers;Canvas;Wood;68.0;IIYBR4JIOS
+Men;Jackets;Blazers;Leather;Nelson;117.0;NHRVGHXNQQ
+Men;Jeans;Bootcut Jeans;Elastane;Rasmussen;112.0;LX0HPPSAHQ
+Men;Shorts;Leather Shorts;Polyester;Meyer;50.0;I5ZEHWIL3Z
+Women;Tailoring;Tailored Jackets;Polyester;Hess;281.0;C9NFBUUQRX
+Women;Trousers;Chinos;Viscose;Black;40.0;DTAU6ZFYQ5
+Men;Sweatshirts;Hoodies;Polyester;Jones;36.0;UTNQ95UGF9
+Women;Jackets;Windbreakers;Corduroy;Hopkins;79.0;B8ZVPZPP4F
+Women;Jeans;Skinny Jeans;Corduroy;Holt;53.0;L4WUNTELFU
+Men;Tailoring;Tailored Jackets;Wool;Chen;167.0;QSKAPPTAAK
+Women;Trousers;Slim Fit Trousers;Viscose;Fox;60.0;JCTNZYKVSI
+Men;Shirts;Hawaiian Shirts;Silk;Weber;32.0;EDSH3APAAR
+Men;Trousers;Dress Pants;Suede;Castillo;95.0;ZYLSFSKUQQ
+Men;Tailoring;Vests;Polyester;Pollard;187.0;MDH3OUPMJP
+Women;Knitwear;Pullovers;Cotton;Jacobs;94.0;7USBVFQMT1
+Men;Shirts;Oxford Shirts;Cotton;Walsh;65.0;BSJSCKHEWU
+Women;Sweatshirts;Oversized Sweatshirts;Polyester;Hernandez;71.0;FX70C38GK3
+Men;Sweatshirts;Fleece Sweatshirts;Fleece;Lopez;77.0;NZISNJIBEH
+Men;Knitwear;Fine Knit Sweaters;Cotton;Elliott;41.0;IW02A8C5UO
+Men;Shorts;Bermuda Shorts;Linen;Owens;53.0;1LA2ACVRLG
+Men;Knitwear;Turtlenecks;Acrylic;Wendy;69.0;J3HDTNDPIU
+Women;Shoes;Derbys;Synthetic;Mann;89.0;0VPFUJMTHY
+Men;Jeans;High-Waisted Jeans;Polyester;Reed;85.0;0CWDUOJJQM
+Men;Knitwear;Chunky Knits;Bamboo;Morris;69.0;IRPAMRHQW6
+Women;Accessories;Cufflinks;Cotton;Martinez;67.0;XFIAIY7Q8J
+Women;Knitwear;Turtlenecks;Bamboo;Bruce;93.0;KWSERRYIYU
+Women;Sweatshirts;Zip-Up Sweatshirts;Bamboo;Harris;53.0;5PJ8BI2STU
+Women;Shorts;Chino Shorts;Corduroy;Jones;21.0;LTCHVHQ9BU
+Women;Shirts;Casual Shirts;Cotton;Aguirre;36.0;YCP2Z2ZLIG
+Women;T-Shirts;V-Neck T-Shirts;Rayon;Ramirez;25.0;DVZLSAGAQ3
+Women;Shorts;Board Shorts;Cotton;Butler;48.0;YHDINSQRTF
+Women;Knitwear;Sweater Vests;Acrylic;Carter;41.0;VGCUVBKBG7
+Men;Sweatshirts;Oversized Sweatshirts;Cotton;Mcguire;77.0;TLU6RLT64P
+Men;Trousers;Wide-Leg Trousers;Suede;Taylor;49.0;ADR15HH2A3
+Men;T-Shirts;Long Sleeve Tees;Linen;Wilson;20.0;8ASTE6FOPZ
+Men;Shorts;Denim Shorts;Denim;Oconnor;23.0;YYTD1YAVXY
+Men;Sweatshirts;Graphic Sweatshirts;Polyester;Eaton;89.0;XG4Z9O7CWQ
+Women;T-Shirts;Henley Shirts;Rayon;Smith;20.0;I5RCOWC6J9
+Men;Shorts;Athletic Shorts;Denim;Lewis;58.0;U7WSEBRK7F
+Women;Shorts;Denim Shorts;Cotton;Gardner;22.0;URP5OI6RAR
+Men;Shoes;Loafers;Rubber;Crane;178.0;BOHB2NVRBN
+Women;Accessories;Wallets;Cotton;White;65.0;PXJOFY5MUI
+Men;Accessories;Sunglasses;Cotton;Jennings;63.0;SSCJY2ELOW
+Women;Knitwear;Fine Knit Sweaters;Cotton;Adkins;59.0;4FRGWJ7DZU
+Women;Accessories;Sunglasses;Wool;Walker;54.0;J03Q1ZBPE4
+Women;Knitwear;Cardigans;Cotton;Oliver;40.0;ZTY1VBRIEX
+Women;T-Shirts;Plain Tees;Rayon;Martinez;19.0;VD6LQ5PEFS
+Men;Jeans;Bootcut Jeans;Elastane;Brown;118.0;CB0OPJJEDJ
+Women;T-Shirts;V-Neck T-Shirts;Linen;Anderson;43.0;HWRWBLYMHZ
+Men;Jeans;Bootcut Jeans;Corduroy;Farley;76.0;SNNVO2PJU7
+Women;Tailoring;Tailored Jackets;Linen;Mills;168.0;D9O7O6MNNG
+Men;Accessories;Sunglasses;Silk;Valdez;52.0;7PPV4E4EGV
+Men;Jeans;Straight Leg Jeans;Elastane;Zavala;62.0;ZID4X5FFXF
+Women;Jeans;Bootcut Jeans;Cotton;Weaver;84.0;BLEMPD5URW
+Women;Tailoring;Tailored Jackets;Wool;Trevino;179.0;I3C4YGYHZ1
+Men;Shorts;Chino Shorts;Corduroy;Miller;49.0;ZQB3VSIY2Z
+Women;Shirts;Dress Shirts;Corduroy;Russo;25.0;KAP4HMDYJW
+Women;Jeans;Bootcut Jeans;Polyester;Leblanc;109.0;BASVSR8TGD
+Men;T-Shirts;V-Neck T-Shirts;Cotton;Gonzalez;23.0;QFQP12Z4AQ
+Men;T-Shirts;Henley Shirts;Rayon;Williams;32.0;NOY2OTLAGA
+Men;Shoes;Sneakers;Rubber;Raymond;170.0;EQUYRM1HDB
+Women;Shirts;Dress Shirts;Silk;Strong;42.0;MAAOGB4R6J
+Women;T-Shirts;Long Sleeve Tees;Rayon;Buck;29.0;UPFVXD0PA8
+Men;Trousers;Wide-Leg Trousers;Polyester;Jackson;95.0;RO1JGYFYG7
+Women;T-Shirts;Crew Neck T-Shirts;Rayon;Richard;24.0;XFXWNP8GGK
+Men;Accessories;Jewelry;Silk;Ramirez;68.0;YMMJLWMA0N
+Women;Shirts;Hawaiian Shirts;Polyester;Wiley;67.0;K76L2BNLMG
+Women;Accessories;Cufflinks;Cotton;Garcia;40.0;IIUJ2GUJB3
+Women;Jackets;Parkas;Nylon;Rodriguez;213.0;2TOA4VHV41
+Men;Shoes;Running Shoes;Synthetic;Terry;146.0;UI0ZZ5S2OT
+Women;Accessories;Belts;Cotton;Sullivan;42.0;QWVDQBSXLZ
+Men;Tailoring;Tailored Jackets;Wool;Austin;191.0;NYEPCCWTCO
+Men;Tailoring;Tuxedos;Polyester;Ramirez;271.0;68ZSD55TBL
+Men;Accessories;Watches;Suede;Burgess;37.0;ULB8TSGVL8
+Women;T-Shirts;Henley Shirts;Rayon;Collins;17.0;RDOCXPGLQQ
+Women;Jackets;Puffer Jackets;Cotton;Thomas;130.0;E6NVXLY68H
+Women;Accessories;Ties;Cotton;Moses;58.0;A5OWYCEBKZ
+Men;T-Shirts;Henley Shirts;Cotton;Hughes;27.0;AWY9IDG0KX
+Men;Accessories;Wallets;Suede;Miller;23.0;SPDUQKWZL5
+Men;T-Shirts;Polo Shirts;Rayon;Lee;43.0;D16G2RORLA
+Women;T-Shirts;V-Neck T-Shirts;Bamboo;Gilbert;44.0;YQX1CSGZQN
+Men;Tailoring;Blazers;Corduroy;Harris;137.0;G3IZSZMR5T
+Men;Shoes;Sandals;Leather;Estes;123.0;Z5XZC7IGJJ
+Women;Shoes;Boots;Leather;Moore;57.0;CZB0TVE0WE
+Women;Jeans;Bootcut Jeans;Denim;Hopkins;48.0;S6ROP529HZ
+Men;Knitwear;Turtlenecks;Wool;Ferrell;48.0;HES1CFJBMX
+Women;T-Shirts;Long Sleeve Tees;Linen;Rivera;47.0;6HFCKY76WG
+Men;Tailoring;Morning Coats;Polyester;Holmes;117.0;PLO5SFDKOR
+Men;Knitwear;Pullovers;Acrylic;Orozco;32.0;DFJJAHGXBY
+Women;Jeans;Bootcut Jeans;Corduroy;Stewart;111.0;T7NMKA3YV1
+Women;Shorts;Cargo Shorts;Cotton;Miller;49.0;NRXQ7RA5NG
+Women;Knitwear;Pullovers;Cotton;Lee;82.0;J2AYVPFARI
+Men;Shoes;Oxfords;Leather;Coleman;145.0;TPBLYNYJBT
+Women;Sweatshirts;Graphic Sweatshirts;Fleece;Hughes;60.0;JDQH0YQJBE
+Women;T-Shirts;Polo Shirts;Polyester;Hopkins;19.0;6S0SUOJEYB
+Women;Shoes;Loafers;Leather;Tyler;67.0;SYJZUDB5NK
+Men;Sweatshirts;Fleece Sweatshirts;Bamboo;Nelson;37.0;40VSCLCYRD
+Men;Shoes;Loafers;Suede;Jones;81.0;SLC0QL84U9
+Men;Knitwear;Fine Knit Sweaters;Acrylic;Johnson;99.0;GXB66QBRBU
+Women;Shirts;Chambray Shirts;Rayon;Farmer;58.0;06FPQYAI5D
+Women;Trousers;Cargo Pants;Polyester;Arnold;38.0;EWVL22ENFU
+Women;Jeans;Bootcut Jeans;Polyester;Scott;95.0;TSXLSSE3D7
+Women;Accessories;Sunglasses;Synthetic;Beasley;41.0;7DQAJ2FMJ3
+Men;Tailoring;Blazers;Silk;Thompson;185.0;EIX2B69NYG
+Men;Shirts;Oxford Shirts;Cotton;Deleon;53.0;PGVCQONDW0
+Women;T-Shirts;Long Sleeve Tees;Bamboo;Herrera;36.0;YHPLHEVBGL
+Women;Shorts;Chino Shorts;Cotton;Davis;35.0;NF8ECSSCGO
+Women;Trousers;Wide-Leg Trousers;Wool;Nelson;72.0;0BRMHA9PUG
+Men;Trousers;Wide-Leg Trousers;Linen;Turner;56.0;WYUSYPY3AF
+Men;Shirts;Hawaiian Shirts;Silk;Contreras;49.0;CH10IKBFYR
+Women;Trousers;Wide-Leg Trousers;Wool;Orozco;46.0;NIZ5I1GZCW
+Men;Accessories;Jewelry;Suede;Omar;45.0;DFY4T1LHZT
+Women;Jackets;Windbreakers;Nylon;Frederick;159.0;VDLBHN7F43
+Men;Shoes;Running Shoes;Leather;Obrien;174.0;83FV5F3HJI
+Women;Accessories;Jewelry;Synthetic;Suarez;47.0;NRIS8AF1DE
+Women;Shoes;Sandals;Canvas;Knapp;160.0;PKAKIL8GFG
+Women;T-Shirts;Henley Shirts;Cotton;Browning;33.0;OQFCDMT5DP
+Men;Jackets;Denim Jackets;Leather;Smith;67.0;TNPIXWP3F8
+Women;Jeans;High-Waisted Jeans;Corduroy;Gray;48.0;6JIWCRDP5Q
+Men;Accessories;Bags;Suede;Robertson;56.0;COJQN7NNDM
+Women;Tailoring;Dress Shirts;Cotton;Deleon;128.0;4IPDBZMXLY
+Men;Shirts;Chambray Shirts;Corduroy;Walls;30.0;QYTOGFOCWL
+Women;Jackets;Windbreakers;Nylon;Jones;169.0;UYUAZMCD82
+Men;Accessories;Belts;Leather;Reed;66.0;OHJIARZYX4
+Men;T-Shirts;Long Sleeve Tees;Cotton;Hill;27.0;5EO0HFW9B2
+Men;T-Shirts;Crew Neck T-Shirts;Bamboo;Brooks;40.0;H8GISTB21M
+Women;Jackets;Leather Jackets;Polyester;Decker;199.0;265OPHIQGF
+Men;Tailoring;Tuxedos;Wool;Santos;107.0;ILUKJGA4G9
+Women;Shorts;Denim Shorts;Nylon;Lee;41.0;ZBTRKNIFGO
+Men;Jeans;High-Waisted Jeans;Corduroy;Rodriguez;119.0;YMD28EMQHD
+Women;Sweatshirts;Hoodies;Bamboo;Turner;44.0;JPU6NFFCCI
+Men;Jeans;High-Waisted Jeans;Denim;Freeman;49.0;N0PJ7NX9NU
+Women;Jeans;Skinny Jeans;Cotton;Edwards;82.0;LUOI3WFXVK
+Women;Trousers;Cropped Trousers;Cotton;Ross;87.0;WLSASHFWPQ
+Women;Tailoring;Dress Shirts;Linen;Sanchez;198.0;80WXFIEKHZ
+Women;T-Shirts;Graphic Tees;Bamboo;Neal;36.0;PBEYYQ0IWJ
+Women;Sweatshirts;Graphic Sweatshirts;Wool;Rose;61.0;RXLBC6PMDU
+Men;Accessories;Belts;Leather;Mitchell;18.0;QZJLK0QB6V
+Women;Sweatshirts;Hoodies;Wool;Snow;72.0;HKUJHSKOR4
+Men;Trousers;Dress Pants;Viscose;Smith;68.0;QPC27ZBUBM
+Women;Tailoring;Vests;Polyester;Miller;179.0;0SUEMXZSLK
+Men;T-Shirts;V-Neck T-Shirts;Polyester;Bennett;33.0;ZW1ZGUIVLC
+Men;Sweatshirts;Fleece Sweatshirts;Cotton;Wagner;30.0;1UTPDLI9IK
+Women;Trousers;Wide-Leg Trousers;Polyester;Nicholson;57.0;U2TS70GF5G
+Men;Knitwear;Cardigans;Wool;Reid;27.0;TECIK6MUW1
+Women;Shoes;Sneakers;Leather;Burns;148.0;ELDEP97H2R
+Women;Jeans;Straight Leg Jeans;Corduroy;Turner;107.0;BROWWBWKLH
+Women;Accessories;Ties;Suede;Sutton;33.0;6LHO0LL2EO
+Women;Sweatshirts;Fleece Sweatshirts;Polyester;Stevens;64.0;MYIL0NKRCF
+Men;Shirts;Casual Shirts;Rayon;Lopez;77.0;26GAEULK3H
+Men;Shorts;Cargo Shorts;Linen;Reed;34.0;AMU2CYAOUK
+Men;Shoes;Sandals;Rubber;Copeland;177.0;N5BRPAQPN8
+Women;Knitwear;Cardigans;Wool;Clark;44.0;AEYW1MJFXA
+Men;Tailoring;Suits;Silk;Williams;285.0;VCCX9IHAFA
+Women;Accessories;Watches;Leather;Lopez;22.0;ITQO7RJH3L
+Women;Tailoring;Blazers;Linen;Rosario;157.0;NW7YNSMAQJ
+Men;Sweatshirts;Crew Neck Sweatshirts;Cotton;Patel;58.0;FMWMZ8MTCH
+Women;Tailoring;Tailored Jackets;Silk;Williams;103.0;ROZO8NOGCZ
+Women;Jeans;Bootcut Jeans;Elastane;Bowers;95.0;9LUYFUTUS7
+Men;Trousers;Joggers;Cotton;Smith;66.0;K0P84BSWPD
+Women;Sweatshirts;Crew Neck Sweatshirts;Polyester;Jefferson;50.0;NRKGIKITJ5
+Women;Sweatshirts;Crew Neck Sweatshirts;Wool;Kramer;69.0;G1GFPWFUY6
+Women;Shoes;Boots;Rubber;Evans;126.0;PTHQS9LQKF
+Men;Knitwear;Chunky Knits;Bamboo;Kemp;97.0;YSNJP6LPWI
+Women;Sweatshirts;Zip-Up Sweatshirts;Wool;Mccarthy;46.0;JP42HTBHBK
+Men;Knitwear;Sweater Vests;Cashmere;Chase;93.0;D2GWWJT79V
+Men;Shoes;Sneakers;Synthetic;Jones;93.0;L99U3TZWFQ
+Women;Trousers;Chinos;Linen;Colon;95.0;OMHBVITGC3
+Women;Shirts;Casual Shirts;Cotton;Decker;40.0;WJSZ4G4ZQK
+Men;Sweatshirts;Oversized Sweatshirts;Wool;Mitchell;89.0;FMLSXFZTRZ
+Men;Shoes;Loafers;Synthetic;Jones;185.0;XRUCYN5EVX
+Women;Shirts;Chambray Shirts;Silk;Johnson;74.0;HA9PBPQHFN
+Women;T-Shirts;Long Sleeve Tees;Cotton;Howard;34.0;OB9BCQRD1G
+Women;Trousers;Slim Fit Trousers;Suede;George;92.0;VEUSVIJWIW
+Men;Jeans;High-Waisted Jeans;Corduroy;Ballard;53.0;IGWAGILCBO
+Men;Knitwear;Cardigans;Bamboo;Walker;39.0;CTMWGH75UH
+Women;Trousers;Slim Fit Trousers;Suede;Hernandez;35.0;YIG3NEQG38
+Women;T-Shirts;Graphic Tees;Polyester;Daniel;36.0;ZUXOOS67UW
+Women;Shirts;Dress Shirts;Corduroy;Bolton;46.0;MAC0VLZUKF
+Men;T-Shirts;Graphic Tees;Polyester;Hernandez;33.0;LMYMAVBEHU
+Men;Jackets;Windbreakers;Nylon;Munoz;203.0;8DOLYDYB9H
+Women;Knitwear;Sweater Vests;Cashmere;Cannon;81.0;KBNHNJUQOX
+Women;Jeans;Skinny Jeans;Corduroy;Moody;96.0;FSSOVYCYSX
+Women;Tailoring;Dress Shirts;Cotton;Coleman;231.0;7OVTZQ25SI
+Men;Tailoring;Blazers;Cotton;Ford;225.0;QWHRE3CVX5
+Women;Jackets;Windbreakers;Leather;Pineda;66.0;WQAOCXDCZM
+Men;Knitwear;Cardigans;Cashmere;Fitzgerald;44.0;NLOHNRIS7X
+Women;Jeans;High-Waisted Jeans;Elastane;Mendoza;50.0;WYBZYAPXZR
+Women;Shorts;Chino Shorts;Denim;Hall;29.0;BEIV2UEBBD
+Women;Jackets;Parkas;Corduroy;Carr;73.0;URMBZ5UEZS
+Men;Accessories;Bags;Silk;Sanford;60.0;2QT6C5LBZX
+Men;Tailoring;Blazers;Wool;Vincent;105.0;X3HQEUV9T8
+Men;Trousers;Chinos;Corduroy;Ramos;79.0;LLTUBDYFK0
+Women;Shorts;Cargo Shorts;Nylon;Rubio;22.0;8RFCDLEEVC
+Men;Shirts;Dress Shirts;Cotton;Sims;39.0;LRAZEHWOQT
+Women;Shirts;Oxford Shirts;Cotton;Wilson;37.0;LTWIK3DZJ7
+Men;Knitwear;Fine Knit Sweaters;Wool;Wilson;55.0;H54Z63QH4X
+Men;T-Shirts;V-Neck T-Shirts;Bamboo;Taylor;48.0;NESUOJPO81
+Women;Tailoring;Vests;Linen;Jones;269.0;P9CTFXYKXB
+Women;Tailoring;Suits;Silk;Smith;292.0;EXQ0ADOIE3
+Women;T-Shirts;Long Sleeve Tees;Cotton;Lee;26.0;NVDW1BFWYS
+Men;Tailoring;Blazers;Silk;Wilson;244.0;CHGWXJHWRZ
+Men;Jackets;Blazers;Leather;Prince;244.0;AADWQ1N4WT
+Men;Tailoring;Tuxedos;Wool;Dunlap;104.0;BG2FYVO2VN
+Women;Trousers;Wide-Leg Trousers;Polyester;Bruce;65.0;PPPJBEZHY0
+Women;Shoes;Derbys;Canvas;Perez;179.0;CJYAEYUDCS
+Men;Jackets;Leather Jackets;Leather;Miller;101.0;AUDZWP87G0
+Men;T-Shirts;Graphic Tees;Rayon;Simmons;26.0;DJVW4L5X4V
+Women;Accessories;Watches;Silk;Perez;55.0;YISLFCSR7W
+Women;Shirts;Chambray Shirts;Rayon;Thomas;59.0;VTZJN31UKV
+Men;Tailoring;Morning Coats;Polyester;Evans;250.0;FOA9ETRTAF
+Men;Sweatshirts;Graphic Sweatshirts;Fleece;Tanner;90.0;KMSDFVXSW9
+Men;Shoes;Sneakers;Synthetic;Jones;200.0;WA0EJMROYQ
+Men;Shorts;Chino Shorts;Nylon;Owens;46.0;SYL3MMGHN2
+Men;T-Shirts;Plain Tees;Rayon;Jones;38.0;FLCDMDAYV4
+Women;Shorts;Chino Shorts;Denim;Johnathan;58.0;L7ZXSDNGR8
+Women;Sweatshirts;Hoodies;Bamboo;Howard;52.0;KUWTA1CPZF
+Men;Knitwear;Turtlenecks;Bamboo;Russell;58.0;VIE2MB7K7W
+Men;Tailoring;Dress Shirts;Linen;Jones;156.0;YOPBZ9YQBM
+Women;Knitwear;Turtlenecks;Cotton;Dawson;64.0;XSSUMGHY92
+Women;T-Shirts;Polo Shirts;Cotton;Lester;43.0;QLZA6UGTVX
+Women;Sweatshirts;Crew Neck Sweatshirts;Bamboo;Guerrero;73.0;230I1YRENV
+Women;Shirts;Dress Shirts;Silk;Bryant;44.0;33AGXI0B4N
+Men;T-Shirts;Plain Tees;Rayon;Torres;22.0;NCVYMI0IAN
+Men;T-Shirts;V-Neck T-Shirts;Linen;Beck;42.0;61NVKZDBAN
+Women;Knitwear;Chunky Knits;Cashmere;Abbott;97.0;4PFZJWH8F5
+Women;Shirts;Dress Shirts;Linen;Foster;35.0;GJ17CK60WF
+Women;Sweatshirts;Fleece Sweatshirts;Cotton;Carter;67.0;UG31OWAB4D
+Men;Shirts;Casual Shirts;Polyester;Bowers;55.0;HUE9VDLV33
+Men;Knitwear;Turtlenecks;Acrylic;Allen;31.0;YRA459CCOV
+Men;Trousers;Cargo Pants;Corduroy;Weber;38.0;MAKOE5UG1X
+Men;Shoes;Boots;Suede;Hodge;91.0;VM4R7Q5RGC
+Men;Sweatshirts;Fleece Sweatshirts;Cotton;Howard;67.0;T2KGYGJ54A
+Men;Shirts;Flannel Shirts;Corduroy;Lowery;67.0;SZMSGKTIXB
+Men;Tailoring;Vests;Cotton;Hoffman;158.0;NSSSBYL8VD
+Women;Knitwear;Fine Knit Sweaters;Acrylic;Glover;44.0;UKAUOFXT2T
+Men;Jeans;Skinny Jeans;Corduroy;Lewis;47.0;MYMDR3WWYL
+Women;Accessories;Wallets;Synthetic;Fisher;65.0;ZSDXTP5NOZ
+Women;Shorts;Athletic Shorts;Denim;Moore;27.0;6MT70EBL1M
+Women;Sweatshirts;Zip-Up Sweatshirts;Fleece;Smith;54.0;P507LYC4AT
+Men;Sweatshirts;Oversized Sweatshirts;Cotton;Haley;64.0;90ZKXJPPNB
+Men;Shirts;Chambray Shirts;Polyester;Williamson;25.0;BYZPPR2JMN
+Men;T-Shirts;Henley Shirts;Linen;Buchanan;37.0;1Q5P0NVQUE
+Men;Knitwear;Fine Knit Sweaters;Cotton;Taylor;68.0;DDFJCBICKF
+Women;T-Shirts;Graphic Tees;Rayon;Aguilar;40.0;NTJFDYLPOI
+Men;Tailoring;Suits;Polyester;Hawkins;207.0;GF2MHUGDIH
+Men;Shoes;Sandals;Canvas;Watkins;155.0;WRVJQIPK8V
+Women;Accessories;Ties;Silk;Daugherty;58.0;MPVEOPTHZB
+Women;T-Shirts;Henley Shirts;Rayon;Garcia;24.0;DRL7UZTPF6
+Men;Sweatshirts;Graphic Sweatshirts;Wool;Sandoval;43.0;QY7FNIMJPL
+Women;T-Shirts;Long Sleeve Tees;Cotton;Donovan;30.0;DCAAU9IOYF
+Men;Trousers;Cropped Trousers;Cotton;Salinas;80.0;JS7G6F4HFF
+Women;Jeans;Skinny Jeans;Corduroy;Harris;104.0;NUBQFE4NMH
+Women;Shoes;Dress Shoes;Synthetic;Rush;64.0;OSMPOUYNY0
+Men;Knitwear;Sweater Vests;Bamboo;Medina;98.0;JSODLUPDQO
+Men;Trousers;Cropped Trousers;Viscose;Norris;53.0;5MNMUFKOHW
+Men;Knitwear;Sweater Vests;Cashmere;Mejia;58.0;JH3ZJTZFW4
+Women;Jeans;Slim Fit Jeans;Cotton;Ray;82.0;WWIVLCW7N4
+Women;Shirts;Chambray Shirts;Rayon;Black;38.0;MJHN18TARI
+Men;Accessories;Wallets;Suede;Murray;12.0;ROP8G8VTHC
+Women;Trousers;Chinos;Cotton;Gonzalez;87.0;DL8WTPZRCT
+Women;Jeans;Bootcut Jeans;Polyester;Jones;54.0;FZK9C9RXQJ
+Men;Jeans;Bootcut Jeans;Cotton;Payne;113.0;OE8BYOPMA4
+Men;Sweatshirts;Fleece Sweatshirts;Bamboo;Johnson;62.0;QHJBVQI7HO
+Men;Jackets;Windbreakers;Nylon;Simmons;191.0;O0K2FX2SG5
+Men;T-Shirts;Graphic Tees;Bamboo;Chambers;48.0;QCOUGIBVXL
+Women;Shorts;Cargo Shorts;Corduroy;Moreno;30.0;E9LCXIZPTZ
+Men;Shirts;Flannel Shirts;Silk;Ramirez;73.0;WOEALIKKQA
+Women;Accessories;Ties;Silk;Montoya;58.0;VU4X9P6H48
+Men;Sweatshirts;Crew Neck Sweatshirts;Polyester;Love;60.0;NSOKFRJNLR
+Women;Tailoring;Tuxedos;Polyester;Kelley;223.0;0K50PNJWWU
+Men;Sweatshirts;Graphic Sweatshirts;Fleece;Brown;70.0;U9M0YYKCKS
+Women;Tailoring;Tailored Jackets;Linen;Valdez;176.0;GMLHZQCWKT
+Men;T-Shirts;Henley Shirts;Cotton;Green;38.0;SOYFNITJFY
+Men;Tailoring;Vests;Cotton;Howell;129.0;VDLFCKFOOK
+Men;Shirts;Casual Shirts;Rayon;Johnson;64.0;HWARSEXSLS
+Men;Shoes;Boots;Leather;Warner;179.0;VGGTRAYRVL
+Men;T-Shirts;Graphic Tees;Rayon;Gilbert;23.0;ZHNBMXFIBM
+Men;Sweatshirts;Oversized Sweatshirts;Polyester;Williams;70.0;P3DVVW0XFO
+Men;Accessories;Bags;Wool;James;27.0;3RSJA6OSEU
+Women;Sweatshirts;Fleece Sweatshirts;Bamboo;Johnson;62.0;PNJA3SKD7V
+Men;Shorts;Athletic Shorts;Corduroy;Gill;32.0;0NAUDXNCCL
+Women;Accessories;Wallets;Synthetic;Espinoza;17.0;AFUDMA6VEE
+Women;Knitwear;Turtlenecks;Wool;Ochoa;81.0;O9BNPKEE1L
+Men;T-Shirts;Crew Neck T-Shirts;Linen;Palmer;23.0;HLBSH9WF0F
+Women;Knitwear;Sweater Vests;Cashmere;Lopez;44.0;WUHEKFKAWX
+Men;Shirts;Oxford Shirts;Linen;Jackson;56.0;MNZVZPASDQ
+Women;Shirts;Chambray Shirts;Linen;Berry;54.0;SQDFKJJNLA
+Men;Shorts;Cargo Shorts;Cotton;Williams;34.0;BTIQRK1KBC
+Men;Knitwear;Cardigans;Wool;Newton;93.0;ZTXRXGODZA
+Women;Tailoring;Dress Shirts;Cotton;Lopez;233.0;XVKEIL3NYE
+Men;Shirts;Linen Shirts;Cotton;Shannon;79.0;LHGRQ4OWFO
+Men;Shirts;Chambray Shirts;Linen;Herrera;50.0;UGRPUHPRCH
+Women;Accessories;Cufflinks;Wool;Davis;26.0;DIG78TDWKW
+Women;T-Shirts;Graphic Tees;Bamboo;Young;38.0;3PV09T5GSF
+Women;Shirts;Linen Shirts;Polyester;Rhodes;75.0;GK6EWWF0GP
+Women;Shorts;Cargo Shorts;Polyester;Ramsey;33.0;VP7FPXGQJP
+Women;Shorts;Denim Shorts;Polyester;Miranda;57.0;W6ZQQOWHNX
+Women;Tailoring;Blazers;Wool;Moore;243.0;FJUK2YH1OQ
+Women;Tailoring;Morning Coats;Linen;Barker;136.0;GBTYRAJV6F
+Women;Sweatshirts;Crew Neck Sweatshirts;Bamboo;Nichols;58.0;N5Y2BEWNPM
+Women;T-Shirts;Henley Shirts;Cotton;Morton;32.0;QJPDU6KJTN
+Women;Shoes;Derbys;Rubber;Perez;171.0;OGQKFP38GF
+Men;Shorts;Chino Shorts;Denim;Larson;35.0;ZJTRUYATMC
+Women;Shorts;Cargo Shorts;Denim;Franklin;39.0;LYTOQSL6TC
+Men;Jeans;Slim Fit Jeans;Polyester;Burke;69.0;FFBJLDZ8MO
+Women;Trousers;Joggers;Polyester;Johnson;60.0;1TUMCLJXO5
+Women;Jackets;Leather Jackets;Cotton;Waters;244.0;JKXOAZRAKK
+Women;Sweatshirts;Zip-Up Sweatshirts;Wool;Ortiz;76.0;U5WO5HNL4P
+Men;Shoes;Running Shoes;Synthetic;Hardin;81.0;QFGAY4LLX0
+Men;Trousers;Cropped Trousers;Suede;Gray;93.0;QSE7Q74HS1
+Women;Tailoring;Vests;Polyester;Scott;149.0;ER9MP3XFPN
+Women;Shorts;Board Shorts;Linen;Cunningham;39.0;E9PVR6PWCY
+Women;Shoes;Derbys;Leather;Hendricks;55.0;I7ZXXX0KIC
+Women;Trousers;Cargo Pants;Corduroy;Nixon;81.0;CMNJIA7PCP
+Men;Knitwear;Cardigans;Acrylic;Hernandez;39.0;3JCDBA2JZP
+Men;Shorts;Cargo Shorts;Polyester;Washington;29.0;O2YMNUTIPJ
+Women;Jackets;Denim Jackets;Suede;King;153.0;XUOQX5FTT1
+Men;Sweatshirts;Fleece Sweatshirts;Bamboo;Oliver;87.0;YCSMHBZRZL
+Men;Shirts;Flannel Shirts;Polyester;Russo;42.0;DVX6GEU2JQ
+Women;Jackets;Denim Jackets;Suede;Kerr;87.0;HK8AGIOTAM
+Men;Shorts;Cargo Shorts;Corduroy;Brown;43.0;JSM2WJGT0U
+Women;Jackets;Blazers;Suede;Vega;154.0;LLQDBEUOAP
+Women;Jackets;Windbreakers;Nylon;Lawrence;71.0;3XC2NSHQD7
+Men;Sweatshirts;Crew Neck Sweatshirts;Fleece;King;86.0;UL1UOHXVFU
+Men;T-Shirts;Crew Neck T-Shirts;Cotton;Olson;39.0;AV45HORRMG
+Men;Knitwear;Turtlenecks;Cotton;Gutierrez;27.0;LDVHNXDOZK
+Women;Tailoring;Vests;Polyester;Russell;255.0;H8XOKJHWAZ
+Women;Accessories;Hats;Suede;Stanley;26.0;NUMILB8SHK
+Women;Sweatshirts;Fleece Sweatshirts;Fleece;White;78.0;WYPCKLSO9S
+Men;Shirts;Dress Shirts;Rayon;Pittman;49.0;EPX5NMWZ0A
+Men;Shoes;Loafers;Suede;Wilcox;142.0;WN3NFLCC3I
+Women;Shoes;Boots;Suede;Houston;199.0;5KDTW6WPB6
+Women;Jeans;Bootcut Jeans;Cotton;Downs;115.0;MHANSLY30K
+Men;Jeans;High-Waisted Jeans;Cotton;Yoder;89.0;J67SBHTJIR
+Women;Sweatshirts;Hoodies;Wool;Lara;58.0;2M3MTICIAY
+Women;Shirts;Chambray Shirts;Cotton;Walker;53.0;FHVTQNRV43
+Men;Shoes;Boots;Rubber;Taylor;163.0;MP4J7XZUCT
+Women;Shirts;Flannel Shirts;Linen;Orr;78.0;ZLFORIVENO
+Women;Shoes;Oxfords;Canvas;Guzman;115.0;LAWZ2YF3WI
+Women;Tailoring;Suits;Linen;Ramsey;115.0;LUMNRQQ0UR
+Women;Jeans;Distressed Jeans;Denim;Johnson;52.0;FX2V3LGGQE
+Men;Shoes;Sneakers;Canvas;Gordon;163.0;GNMRYJOISK
+Women;T-Shirts;Plain Tees;Cotton;White;17.0;SP0QXF9JOX
+Women;Shorts;Board Shorts;Polyester;Russell;55.0;M4BG0S4VTM
+Men;Trousers;Dress Pants;Viscose;Zhang;80.0;TFY54Y2DIA
+Men;Shoes;Oxfords;Suede;James;75.0;ECJXTD8WXL
+Men;Jeans;Straight Leg Jeans;Cotton;Rodriguez;109.0;HZVUKN0432
+Women;T-Shirts;Henley Shirts;Linen;Garcia;16.0;PQSNIXFZXM
+Men;Jackets;Windbreakers;Corduroy;Thompson;224.0;CFY6JSOW0H
+Women;Knitwear;Cardigans;Wool;Mullen;27.0;O3ELGBKJHK
+Women;Accessories;Cufflinks;Suede;Avila;27.0;HUC7QP7SL9
+Women;Tailoring;Dress Shirts;Wool;Davis;113.0;5LK7YKGTF8
+Women;Shorts;Athletic Shorts;Linen;Miller;23.0;CEVL73C6Z0
+Men;Shoes;Oxfords;Suede;Hunt;132.0;R8MYROXNAC
+Women;Jackets;Puffer Jackets;Leather;Douglas;175.0;HDKFUFEEAK
+Women;Knitwear;Cardigans;Cashmere;Barajas;83.0;6ZLC5PAHGQ
+Men;Tailoring;Morning Coats;Polyester;Casey;202.0;0V9JMBUENB
+Women;Tailoring;Tailored Jackets;Linen;Walker;258.0;8IWGND4JWS
+Women;Jackets;Blazers;Suede;Robinson;77.0;CSPAZPHMC1
+Women;Shirts;Flannel Shirts;Corduroy;Taylor;68.0;TSQJC5IN9F
+Men;Tailoring;Dress Shirts;Linen;Bullock;290.0;8SBRA7WTDQ
+Women;Jackets;Windbreakers;Leather;Ramos;146.0;USXD3C0YJS
+Women;Shoes;Oxfords;Leather;Smith;131.0;AHE7IUBSOU
+Men;Sweatshirts;Hoodies;Bamboo;White;74.0;PWBTEC6ZN5
+Women;T-Shirts;Crew Neck T-Shirts;Rayon;Gallagher;43.0;U1CX9MLYLK
+Men;Shoes;Boots;Canvas;Mccullough;181.0;SUXSEUAMBP
+Men;Shirts;Hawaiian Shirts;Silk;Davis;49.0;IAK80ZBIMO
+Women;Knitwear;Turtlenecks;Cotton;Ward;39.0;DBDRR9AUAP
+Men;Sweatshirts;Hoodies;Cotton;Hill;62.0;HIZEPOCNYR
+Women;Trousers;Joggers;Linen;Donaldson;30.0;Y8MTI8HL9Y
+Women;Jeans;Bootcut Jeans;Polyester;Mason;41.0;6RQBWVUOBX
+Women;Jackets;Blazers;Leather;Dougherty;190.0;9MFIY5HAST
+Men;Jeans;Distressed Jeans;Cotton;Burke;119.0;ZQYPYKEI0Y
+Men;Sweatshirts;Zip-Up Sweatshirts;Bamboo;Smith;49.0;KXK1X3DGDN
+Men;Shirts;Dress Shirts;Polyester;Bush;75.0;F7DZTSK47E
+Men;Sweatshirts;Graphic Sweatshirts;Polyester;Santos;52.0;DXRRBM9KJR
+Women;Accessories;Cufflinks;Synthetic;Cooper;14.0;CVVLPKTFH7
+Women;Tailoring;Blazers;Wool;Rodriguez;157.0;XAOU3YDK5C
+Women;Trousers;Slim Fit Trousers;Suede;Rodriguez;87.0;XZYK8A1PMW
+Women;Shoes;Sandals;Canvas;Schneider;57.0;TUDMXQCXYS
+Men;Jeans;Straight Leg Jeans;Elastane;Dennis;119.0;CFZHJUQG9O
+Women;Jackets;Parkas;Cotton;Collier;126.0;TGVVXW1BC3
+Men;Trousers;Joggers;Corduroy;Macdonald;88.0;GXZDMEHMRU
+Women;Trousers;Cargo Pants;Linen;White;59.0;ZPEVV36F2F
+Women;Shorts;Board Shorts;Corduroy;Miller;40.0;TTDGV8BJM6
+Men;T-Shirts;Plain Tees;Bamboo;Carter;41.0;3GMDJMMVQX
+Men;Jackets;Leather Jackets;Nylon;Miller;187.0;CA3IOVKAAM
+Men;Tailoring;Tuxedos;Polyester;Thomas;245.0;WSIQCIKXPS
+Men;Shirts;Chambray Shirts;Corduroy;Massey;54.0;U1U3BBQCOM
+Women;Jackets;Bomber Jackets;Denim;Garcia;105.0;K5QQ5T5SCZ
+Women;Tailoring;Vests;Corduroy;Smith;238.0;4YUOBT1VRR
+Women;Shorts;Cargo Shorts;Denim;Allen;38.0;EL4B4VF20Y
+Men;Shirts;Chambray Shirts;Linen;Mccarthy;47.0;PVENIIT6KU
+Men;Shorts;Chino Shorts;Linen;Tran;55.0;HWOTT8ZQY3
+Women;Tailoring;Dress Shirts;Corduroy;Harper;201.0;UDLPMNFLYY
+Men;Shorts;Denim Shorts;Nylon;Farrell;28.0;IKNS3CPDVY
+Men;Jackets;Denim Jackets;Corduroy;Brown;190.0;XZUULMAUEX
+Men;T-Shirts;Long Sleeve Tees;Rayon;Perry;16.0;VJLPVXJGK0
+Men;Sweatshirts;Oversized Sweatshirts;Bamboo;Day;55.0;3F1MKMURDH
+Men;Knitwear;Cardigans;Cashmere;White;32.0;2RPZGWYZDT
+Women;Sweatshirts;Crew Neck Sweatshirts;Bamboo;Wright;81.0;YZE0NU2VVR
+Women;Knitwear;Chunky Knits;Cashmere;Bender;77.0;MGVXSCSXF5
+Women;Tailoring;Tuxedos;Linen;Munoz;272.0;XYSZQSRKBJ
+Women;Shoes;Dress Shoes;Canvas;Combs;73.0;QQVXSVAVDI
+Women;Jeans;Distressed Jeans;Cotton;Alvarado;63.0;QCUKXFBKIE
+Men;Accessories;Wallets;Suede;Wise;22.0;FTJUAUTCQ8
+Women;T-Shirts;Long Sleeve Tees;Polyester;Kaiser;28.0;BNGBE4ZMFU
+Men;Accessories;Scarves;Silk;Howard;45.0;C70UKTMOW1
+Men;Shorts;Chino Shorts;Polyester;Smith;50.0;ZWZD0IGY6O
+Men;T-Shirts;Crew Neck T-Shirts;Bamboo;Jordan;22.0;R3BACPUYEZ
+Women;Tailoring;Dress Shirts;Corduroy;Gonzalez;273.0;1CHYZM1PH4
+Women;Shirts;Linen Shirts;Rayon;Olsen;53.0;LNIXH2NBRN
+Women;Jeans;Straight Leg Jeans;Cotton;Gilbert;48.0;SXZMUGUTSK
+Women;Shirts;Hawaiian Shirts;Rayon;White;66.0;A1RMKL0UVV
+Men;T-Shirts;Polo Shirts;Bamboo;Giles;30.0;JUJTDIJTLM
+Men;Knitwear;Cardigans;Acrylic;Miller;52.0;WE9N70E1IA
+Men;T-Shirts;Plain Tees;Polyester;Oneal;37.0;TM18SWYRDR
+Men;Accessories;Wallets;Silk;Parks;59.0;XITYX1XTJQ
+Women;Shirts;Dress Shirts;Polyester;Peterson;70.0;JGKROQBK7X
+Men;Shoes;Loafers;Suede;Price;178.0;NRE7TEHQWT
+Women;Accessories;Hats;Cotton;Long;66.0;OUSAEUKNCL
+Men;Jackets;Windbreakers;Denim;Fisher;226.0;3SUIQA9WXD
+Men;Shirts;Flannel Shirts;Corduroy;Sanchez;51.0;TMHCGGW1XP
+Women;Trousers;Slim Fit Trousers;Wool;Brown;61.0;UG1BURRJEB
+Women;Shorts;Board Shorts;Denim;Rivera;33.0;GJA4T0AQKX
+Women;Shoes;Loafers;Canvas;Arroyo;68.0;2DFDQA5QEV
+Men;Shoes;Dress Shoes;Synthetic;Cox;112.0;UCRDSGBRHM
+Men;Knitwear;Turtlenecks;Acrylic;Robinson;81.0;XBCDSI5GOM
+Women;Trousers;Cargo Pants;Linen;Payne;71.0;FXOCNKHMA9
+Men;Accessories;Watches;Leather;Hampton;44.0;W1AMZVSO7K
+Women;Jeans;High-Waisted Jeans;Corduroy;Adams;59.0;DYRT94HCP7
+Women;Shirts;Hawaiian Shirts;Rayon;Johnson;70.0;HYNS0HMTUZ
+Women;Shorts;Leather Shorts;Denim;Wagner;39.0;N70J18DJCG
+Men;T-Shirts;Crew Neck T-Shirts;Bamboo;Peterson;44.0;QKNFT175Y0
+Men;Sweatshirts;Oversized Sweatshirts;Cotton;Greene;40.0;LGGMDFDJQJ
+Women;Tailoring;Tailored Jackets;Polyester;Peterson;148.0;DUAG1KFQM1
+Men;Shirts;Hawaiian Shirts;Cotton;Mills;39.0;5UNC8VYQZD
+Women;Sweatshirts;Fleece Sweatshirts;Polyester;Owens;78.0;PKNWK5JHC5
+Women;Shoes;Running Shoes;Synthetic;Lutz;82.0;D7E61I84TK
+Women;Trousers;Cropped Trousers;Corduroy;Parks;81.0;M2FOHJ3PAX
+Men;T-Shirts;Polo Shirts;Bamboo;Jackson;35.0;GGNXV561MK
+Women;Shoes;Oxfords;Leather;Wood;93.0;TIBSFOPNRM
+Women;Accessories;Jewelry;Synthetic;Martin;26.0;SLEPZ4DARB
+Women;Knitwear;Pullovers;Cashmere;Hines;72.0;QDAH0ZNIKY
+Women;Jeans;Straight Leg Jeans;Denim;Robbins;50.0;4JLUSCDWFB
+Men;Jeans;Skinny Jeans;Polyester;Carrillo;109.0;YVJZTTTUIS
+Women;Shirts;Chambray Shirts;Corduroy;Chase;52.0;OP5KSFABQ6
+Men;Shorts;Denim Shorts;Nylon;Wilson;32.0;HJBEOLXMKZ
+Women;Jeans;Slim Fit Jeans;Elastane;Morris;50.0;G8OADSWKML
+Men;Shorts;Bermuda Shorts;Polyester;Silva;35.0;IVAO6EOU4Y
+Men;Shoes;Derbys;Canvas;Oliver;59.0;INLNQJHKKS
+Men;Jeans;Slim Fit Jeans;Polyester;Duffy;42.0;HJ4OSLPVOO
+Women;Shoes;Derbys;Canvas;Jenkins;160.0;ZRIMR16LYE
+Women;Sweatshirts;Fleece Sweatshirts;Polyester;Allison;66.0;XZ8NKOVKDP
+Women;Trousers;Cropped Trousers;Suede;Gallagher;31.0;OWSEBMV2OK
+Women;Tailoring;Blazers;Silk;Perez;241.0;ES7Y34AZSU
+Women;Shirts;Casual Shirts;Silk;Hughes;59.0;RFFVLWAM4J
+Men;Shirts;Casual Shirts;Silk;Smith;45.0;R3YN86ALNP
+Women;Shoes;Sandals;Synthetic;Mcdonald;101.0;NJ3CEUP4NZ
+Men;Tailoring;Blazers;Linen;Shah;141.0;JAIEIUO1MA
+Men;Tailoring;Suits;Silk;Li;299.0;WHQ9J3KCPI
+Women;Trousers;Cargo Pants;Polyester;Hartman;68.0;SJCG5BTXO3
+Women;Shorts;Athletic Shorts;Corduroy;Rose;53.0;FZOU8ZVQMM
+Men;Sweatshirts;Oversized Sweatshirts;Bamboo;Page;78.0;8VOF6XWKLK
+Men;Jackets;Bomber Jackets;Denim;Kramer;74.0;HBP08FF5W2
+Men;Shirts;Casual Shirts;Polyester;Stephens;40.0;GRNFIU8NZR
+Women;Shorts;Bermuda Shorts;Linen;Wiggins;30.0;USXP4OVDSB
+Men;Trousers;Dress Pants;Linen;Arnold;90.0;SMNLJEMQTA
+Men;Shorts;Chino Shorts;Linen;Payne;34.0;DXRY7U2OLT
+Women;Shoes;Derbys;Suede;Flores;168.0;2S68EA3ZNF
+Men;Accessories;Hats;Wool;Parker;52.0;XZAACH7FSS
+Men;Tailoring;Dress Shirts;Wool;Freeman;161.0;3Q31BDXVPN
+Women;Shorts;Bermuda Shorts;Corduroy;Lam;28.0;EF9BKN29NW
+Men;Jackets;Parkas;Corduroy;Combs;209.0;N4PFCM94D7
+Women;Accessories;Scarves;Suede;Frank;47.0;DICWUJVFE8
+Women;Trousers;Joggers;Linen;Johnson;41.0;2BX4CAEF7D
+Women;Jackets;Windbreakers;Suede;Hartman;160.0;JGZASX25NL
+Women;Shoes;Boots;Canvas;Rodriguez;51.0;VYTAW23DJF
+Men;Tailoring;Suits;Cotton;Jones;251.0;9FIMN3LSZC
+Men;Accessories;Bags;Leather;Sanchez;13.0;I6VKY7EFIJ
+Women;Accessories;Belts;Leather;Campos;15.0;6XLEPOJ45B
+Women;Sweatshirts;Fleece Sweatshirts;Wool;Collins;79.0;7UTNYUYVEZ
+Men;Shirts;Casual Shirts;Rayon;Jarvis;25.0;PULQRZSP3X
+Men;Jeans;Bootcut Jeans;Corduroy;Lee;58.0;1VRGSWOREJ
+Women;Knitwear;Cardigans;Cashmere;Ray;90.0;S8E4HOZSNL
+Men;T-Shirts;Henley Shirts;Polyester;Parker;35.0;I7UR0WTXHN
+Men;Shoes;Derbys;Suede;Kim;71.0;UFSMKI4IRJ
+Men;Tailoring;Suits;Cotton;Hamilton;254.0;GE9XNYXXW3
+Men;Shoes;Loafers;Leather;Johnson;198.0;YDRK5JYX2V
+Women;Accessories;Watches;Cotton;Young;42.0;TUWASAJ30L
+Women;Jackets;Denim Jackets;Denim;Garcia;73.0;RLPG32QD8E
+Women;T-Shirts;V-Neck T-Shirts;Bamboo;Keller;40.0;4VBYZTMLK0
+Men;T-Shirts;Graphic Tees;Linen;Anderson;26.0;9C4IMDCWUH
+Men;Jackets;Leather Jackets;Leather;Moore;88.0;MDC9MDAVZE
+Men;Knitwear;Sweater Vests;Cashmere;Nelson;90.0;XTK76KWRGI
+Women;Knitwear;Turtlenecks;Cotton;Porter;63.0;GBJS1L2ZGD
+Women;Shoes;Oxfords;Leather;Woodward;159.0;QTAZ1K6MW3
+Women;Tailoring;Morning Coats;Silk;Mann;125.0;B9KQWILPS0
+Women;Sweatshirts;Graphic Sweatshirts;Polyester;Montgomery;65.0;AUEFECRLL0
+Men;Jeans;High-Waisted Jeans;Polyester;Roberts;60.0;GXRVDFFM3R
+Men;Trousers;Joggers;Cotton;Logan;32.0;JTJ36CMIO5
+Women;Trousers;Joggers;Linen;Anderson;95.0;HOETUM8S1Y
+Women;Trousers;Wide-Leg Trousers;Viscose;Shepherd;64.0;GHNUYRWL8A
+Men;Knitwear;Sweater Vests;Acrylic;Martin;96.0;AFSLV9NVAD
+Women;Shorts;Denim Shorts;Cotton;Duncan;42.0;WUQRVU8PHP
+Men;T-Shirts;Long Sleeve Tees;Linen;Reyes;50.0;VQJYGW71LB
+Women;Shoes;Loafers;Canvas;Moore;111.0;HAUYBLKZE7
+Women;Knitwear;Sweater Vests;Acrylic;Stout;52.0;QAFZU50JKJ
+Men;Shorts;Denim Shorts;Nylon;James;36.0;ID1XDZDWFR
+Men;Accessories;Cufflinks;Leather;Rodriguez;37.0;LMWKS7PJRD
+Men;Tailoring;Dress Shirts;Cotton;Austin;222.0;DAU9SOBRWF
+Men;Sweatshirts;Fleece Sweatshirts;Polyester;Malone;90.0;TJXGRLRECT
+Men;Jeans;Distressed Jeans;Polyester;Morgan;111.0;DRN6PVVWFP
+Men;Jeans;Slim Fit Jeans;Corduroy;Zamora;107.0;FLQUMVLGRA
+Men;Tailoring;Blazers;Linen;Mcbride;149.0;SA0CIXANHA
+Women;Accessories;Watches;Suede;Park;45.0;0PDHCMQJ6S
+Women;Shoes;Running Shoes;Suede;Jones;121.0;RWQMMFWTTV
+Women;Accessories;Ties;Suede;Osborne;37.0;AITRZZXGXM
+Women;Jeans;Slim Fit Jeans;Elastane;Miller;116.0;ASD9ECVCSD
+Women;Trousers;Wide-Leg Trousers;Corduroy;Harris;96.0;WSUWQQX9EO
+Women;T-Shirts;Crew Neck T-Shirts;Linen;Vazquez;29.0;TZIPOYEO91
+Men;Sweatshirts;Hoodies;Fleece;Cervantes;83.0;D0VCWTT9IB
+Men;Jackets;Denim Jackets;Nylon;Stephens;85.0;4FHGMI2RCD
+Women;Tailoring;Suits;Silk;Garrett;117.0;LTITORYLB3
+Women;Sweatshirts;Crew Neck Sweatshirts;Fleece;Ferguson;44.0;RJDOMZ3OC5
+Women;Shorts;Denim Shorts;Polyester;Rodriguez;60.0;VYSU61KZE0
+Women;Shorts;Denim Shorts;Nylon;Tucker;43.0;6UTLH7H5YG
+Men;Shirts;Linen Shirts;Corduroy;Leblanc;33.0;OTDLGTXACK
+Men;Knitwear;Cardigans;Cashmere;Perez;51.0;BAYNVDTWGA
+Men;Trousers;Slim Fit Trousers;Cotton;Davis;81.0;TVPUX62XBP
+Women;T-Shirts;Long Sleeve Tees;Cotton;Francis;21.0;YBG9PHTLPA
+Women;Trousers;Wide-Leg Trousers;Viscose;Schneider;32.0;RECRTPLT0C
+Women;Shoes;Dress Shoes;Leather;Gomez;186.0;2S5IS4GGCG
+Women;Sweatshirts;Crew Neck Sweatshirts;Cotton;Williams;50.0;5DQW4A0RJI
+Women;Trousers;Slim Fit Trousers;Suede;Martinez;51.0;7EMHKOVUID
+Men;Tailoring;Suits;Wool;Curry;218.0;SDJCQMUYWK
+Women;T-Shirts;Plain Tees;Rayon;Lee;18.0;DELMHT7ZCO
+Women;Shorts;Cargo Shorts;Linen;Danielle;46.0;RVK2TOFBBL
+Women;Shorts;Bermuda Shorts;Nylon;Davis;57.0;2TES1QGGG0
+Women;Shorts;Bermuda Shorts;Corduroy;Davis;36.0;HMRM5ZWSJ5
+Women;Sweatshirts;Graphic Sweatshirts;Wool;Curry;43.0;ME0VA8F9GF
+Women;Jackets;Blazers;Denim;Ayala;80.0;SQ1IF2BQN2
+Women;Shorts;Denim Shorts;Nylon;Mcguire;39.0;Q6VS8TULHV
+Men;Jackets;Blazers;Corduroy;Calhoun;244.0;BVGUBRLJOK
+Women;Knitwear;Chunky Knits;Bamboo;Powers;60.0;UB32TLNYKZ
+Women;Jackets;Blazers;Polyester;Hernandez;155.0;R8S5Y66OEZ
+Women;Trousers;Cargo Pants;Suede;Turner;66.0;RXWWKLDKOE
+Women;Accessories;Watches;Cotton;Freeman;35.0;JYKY8WPCVR
+Men;Sweatshirts;Hoodies;Cotton;Huerta;68.0;XGYGYXHF3N
+Women;Jeans;Skinny Jeans;Elastane;White;105.0;DSBXGBGNHS
+Women;Trousers;Cropped Trousers;Wool;Green;94.0;QWF5XSDP5O
+Men;Shirts;Dress Shirts;Corduroy;Snyder;72.0;KQZGAFXRBD
+Men;Tailoring;Tailored Jackets;Linen;Ingram;222.0;ZWRMO5SX6S
+Women;T-Shirts;Crew Neck T-Shirts;Bamboo;Beasley;30.0;KEEGHBUEKI
+Men;T-Shirts;Crew Neck T-Shirts;Rayon;Mendez;25.0;TQGHS45OSE
+Women;Sweatshirts;Graphic Sweatshirts;Polyester;Mcbride;45.0;B45D04HKSQ
+Men;Jackets;Windbreakers;Cotton;Wagner;177.0;5DIMU87HLH
+Women;Accessories;Sunglasses;Suede;Peterson;25.0;NE83OYMAU3
+Women;Trousers;Wide-Leg Trousers;Linen;Mason;50.0;KJHCC7I2XH
+Men;Trousers;Joggers;Suede;James;75.0;MYM8UUNY6A
+Women;T-Shirts;Crew Neck T-Shirts;Polyester;Young;32.0;TRN66LEOII
+Women;Shorts;Chino Shorts;Nylon;Myers;43.0;TSAADIXQMW
+Women;Knitwear;Fine Knit Sweaters;Cotton;Robinson;38.0;8VUB6DJGLA
+Men;Shorts;Board Shorts;Linen;Benitez;57.0;AV4UO830EH
+Men;Trousers;Slim Fit Trousers;Suede;Mann;53.0;CED2JEVUSA
+Men;Sweatshirts;Graphic Sweatshirts;Cotton;Moore;75.0;CFZSKOIIZK
+Men;Jeans;Straight Leg Jeans;Corduroy;Hill;101.0;18ALDUVFET
+Women;Shoes;Boots;Rubber;Hampton;80.0;EJIBTL0KKO
+Women;Trousers;Chinos;Cotton;Clark;84.0;HMUHTWMC7P
+Women;T-Shirts;Long Sleeve Tees;Bamboo;Blair;48.0;YY7NQ4RCEV
+Women;T-Shirts;Long Sleeve Tees;Polyester;Gomez;40.0;OYGY1FN0GK
+Men;Knitwear;Pullovers;Cashmere;Rivers;47.0;UPHYD3L76T
+Men;Knitwear;Turtlenecks;Cashmere;Brennan;77.0;YD1QBI1PNZ
+Women;Shoes;Sneakers;Canvas;Rodriguez;129.0;UN8I6LFEJE
+Men;Trousers;Cargo Pants;Linen;Powell;92.0;PZDQ7QJH9A
+Men;Jackets;Windbreakers;Corduroy;Wang;109.0;IDYLOD0L1U
+Women;Trousers;Chinos;Suede;Reese;63.0;VKTRCQXECK
+Men;Shoes;Loafers;Leather;Smith;96.0;G2B39M4EIX
+Women;Jeans;Slim Fit Jeans;Polyester;Perez;77.0;E4UEXVJEWJ
+Men;Trousers;Dress Pants;Corduroy;Jackson;53.0;ERRN1UYEYO
+Women;Shirts;Chambray Shirts;Cotton;King;59.0;QDMRQYDZUH
+Women;Shorts;Denim Shorts;Corduroy;Carter;32.0;UMWXXHBHGK
+Men;T-Shirts;Henley Shirts;Polyester;Butler;42.0;GZNOVIZ9XG
+Women;Accessories;Hats;Wool;Gutierrez;23.0;XEQSUGUVVO
+Women;Jackets;Bomber Jackets;Nylon;Stewart;208.0;2H8XU07N28
+Women;T-Shirts;Long Sleeve Tees;Linen;Cooper;24.0;MDKPUBGO1L
+Women;Accessories;Cufflinks;Wool;Mason;28.0;URZGI8ZMDT
+Men;Shoes;Sandals;Canvas;Hawkins;130.0;HJPIPGMN2H
+Women;Jeans;Bootcut Jeans;Corduroy;Harrell;53.0;VIVMIF1ARW
+Men;T-Shirts;Plain Tees;Polyester;Kelly;42.0;ZP34RAEZ7J
+Men;Accessories;Bags;Cotton;Garcia;43.0;BX9AROMZZX
+Men;Jeans;Skinny Jeans;Polyester;Snyder;100.0;EMTRZ7MZGG
+Women;Shirts;Flannel Shirts;Silk;Roman;72.0;DJZUHWAZVM
+Women;Knitwear;Cardigans;Cashmere;Hardy;54.0;QQ6GJ5UEB6
+Men;Knitwear;Cardigans;Cashmere;Baker;38.0;4PRMZXMPEV
+Men;Trousers;Wide-Leg Trousers;Cotton;Anthony;64.0;9TZNAEX867
+Women;Jeans;Slim Fit Jeans;Cotton;Long;84.0;ZONL2QBDFS
+Women;Jeans;Straight Leg Jeans;Elastane;Kerr;117.0;KJH6JNEE7K
+Men;Knitwear;Turtlenecks;Cashmere;Collins;98.0;2GEAEP3ARF
+Women;Knitwear;Turtlenecks;Acrylic;Bennett;29.0;XIB0VGQS3S
+Men;Jeans;Slim Fit Jeans;Denim;Monroe;70.0;3WWWOFI5AK
+Men;Shorts;Board Shorts;Cotton;Nelson;56.0;GPXV9PYJXZ
+Women;Shirts;Casual Shirts;Cotton;Morse;48.0;EFMOKRZA3N
+Men;Shorts;Chino Shorts;Denim;Chelsea;38.0;IYNOLAROZQ
+Women;Shorts;Athletic Shorts;Cotton;Johnson;29.0;USE6IXPRSL
+Women;Shorts;Athletic Shorts;Cotton;Reed;35.0;BZ5JO8PHJM
+Men;T-Shirts;Crew Neck T-Shirts;Cotton;Duran;22.0;E7AJRXIG13
+Women;Sweatshirts;Crew Neck Sweatshirts;Cotton;Taylor;86.0;UQKMBMVDWW
+Men;Shorts;Bermuda Shorts;Denim;Cook;42.0;WYPBLSMI2R
+Women;Accessories;Cufflinks;Leather;Clark;65.0;EGQRYUF7ED
+Men;Jackets;Denim Jackets;Leather;Moran;107.0;ZUTPF390CP
+Men;Trousers;Wide-Leg Trousers;Cotton;Schwartz;51.0;EJGVDRZAZN
+Women;T-Shirts;Long Sleeve Tees;Rayon;Martin;19.0;LFSPQFLKYJ
+Men;Trousers;Wide-Leg Trousers;Suede;Hall;71.0;O2N4D34LOQ
+Men;Jackets;Puffer Jackets;Leather;Donovan;145.0;NALWTWS2KU
+Men;Shorts;Bermuda Shorts;Denim;Nguyen;34.0;BXLXACMEC7
+Women;Shorts;Bermuda Shorts;Denim;Johnson;50.0;CFWF5WRLFX
+Men;Shoes;Oxfords;Suede;Collins;81.0;AHSTXLFNME
+Women;Shorts;Cargo Shorts;Linen;Hunter;38.0;J8EO9QB0NA
+Men;Shirts;Dress Shirts;Corduroy;Hanson;72.0;2NMBIKH6PL
+Men;Trousers;Wide-Leg Trousers;Corduroy;Grant;94.0;M4RDCJSXHY
+Men;Jeans;Bootcut Jeans;Corduroy;Ford;115.0;4BIBC2EZJD
+Men;Shoes;Running Shoes;Leather;Bradley;111.0;ZZ8T0BMC87
+Women;Shorts;Chino Shorts;Nylon;Mays;38.0;NBSKZVG8HC
+Men;Jeans;Skinny Jeans;Denim;Alexander;49.0;CCFMQF6EVC
+Women;Jeans;Slim Fit Jeans;Corduroy;Rose;82.0;OT3SB6794J
+Men;Trousers;Cargo Pants;Cotton;Galvan;86.0;URUI3JMF4W
+Men;Jackets;Blazers;Corduroy;Rose;112.0;Y7DV9ZAW1H
+Women;Jeans;Distressed Jeans;Polyester;Stewart;53.0;TTVKE6POVS
+Women;Jackets;Windbreakers;Cotton;Orr;146.0;W58GT2AJI8
+Women;Trousers;Wide-Leg Trousers;Polyester;Fisher;83.0;P8M4IAF51D
+Women;Jeans;Bootcut Jeans;Denim;Lopez;56.0;0LZTDPSGC3
+Men;Tailoring;Blazers;Wool;Simpson;137.0;DSVXPTBEU4
+Men;Accessories;Hats;Wool;Shannon;23.0;I8WQ0Y6SP6
+Men;Jeans;Distressed Jeans;Corduroy;Kelly;87.0;QNKAN6OXC1
+Men;Accessories;Ties;Silk;Price;69.0;BSN6QIRRTV
+Women;Tailoring;Blazers;Cotton;Perez;188.0;KILJWM1SOR
+Men;Knitwear;Pullovers;Bamboo;Ortega;26.0;COWJDE9A8I
+Men;Shoes;Oxfords;Synthetic;Palmer;146.0;O4JUJICN3H
+Women;Jeans;Straight Leg Jeans;Elastane;Parsons;103.0;BTDX7PQR8S
+Women;Shirts;Dress Shirts;Linen;Tanner;25.0;Y6MQZELUSC
+Women;Jeans;Bootcut Jeans;Denim;Sanchez;71.0;3HET7WLD8B
+Women;Jeans;Straight Leg Jeans;Elastane;Lopez;54.0;M26DN5PIGV
+Women;Shoes;Derbys;Rubber;Fernandez;193.0;EEUCIFXP3T
+Women;Jeans;High-Waisted Jeans;Corduroy;Brown;97.0;WIODO0C75J
+Women;Jeans;Slim Fit Jeans;Corduroy;Long;63.0;AEYIEFSIZF
+Women;Shorts;Board Shorts;Polyester;Ramirez;20.0;BBCYN4TYIW
+Women;Trousers;Dress Pants;Linen;Mcfarland;98.0;7ES9LF22XM
+Men;Accessories;Wallets;Wool;Bowman;46.0;BDKC6IDMXV
+Men;Shirts;Flannel Shirts;Polyester;Ochoa;76.0;TE2SGTJAKG
+Women;Accessories;Hats;Leather;Murphy;49.0;RN0C1KLOFD
+Women;Accessories;Bags;Cotton;Gomez;47.0;FHZKRWAYJ7
+Women;Shoes;Running Shoes;Synthetic;Branch;196.0;OCHTMC19OX
+Men;Tailoring;Tuxedos;Wool;Wu;124.0;NG07ISHXRW
+Men;Shorts;Board Shorts;Cotton;Chen;41.0;1BKSPZVV48
+Men;Shirts;Flannel Shirts;Rayon;Miller;35.0;EH4PRQ3INK
+Men;Shoes;Sneakers;Rubber;Taylor;109.0;UTRLPSSCKE
+Women;Sweatshirts;Oversized Sweatshirts;Polyester;Dennis;78.0;WDLJU8WGIZ
+Women;Jeans;Straight Leg Jeans;Cotton;Wright;43.0;6H1P7L5IFK
+Women;T-Shirts;V-Neck T-Shirts;Polyester;Barajas;35.0;QEUS2PRGQP
+Men;Trousers;Wide-Leg Trousers;Polyester;Cardenas;64.0;T4TFKSXKLC
+Men;Sweatshirts;Zip-Up Sweatshirts;Cotton;Quinn;40.0;VTNRWKGQRW
+Women;T-Shirts;V-Neck T-Shirts;Bamboo;Ayers;19.0;XUO8CO1VLZ
+Women;Tailoring;Dress Shirts;Silk;Neal;117.0;0PYTERPYGY
+Men;Jackets;Puffer Jackets;Cotton;Roberts;197.0;VPI8FNVPHW
+Women;Trousers;Joggers;Viscose;Armstrong;83.0;B7GMLWQ59T
+Women;Shirts;Chambray Shirts;Corduroy;Smith;46.0;5IIY5W8OUA
+Men;Accessories;Belts;Silk;Romero;22.0;YPLZMJO2RM
+Women;Accessories;Hats;Cotton;Campbell;30.0;90F4G0MPFE
+Men;Knitwear;Turtlenecks;Acrylic;Deleon;67.0;7HVNHE1GJL
+Women;Sweatshirts;Oversized Sweatshirts;Wool;Miller;63.0;1IRZ1HOQQR
+Men;Jeans;Skinny Jeans;Denim;Johnson;107.0;QSREU6F5UP
+Men;Shirts;Dress Shirts;Silk;Scott;63.0;9GYXV84RU9
+Men;Shoes;Sandals;Synthetic;Morgan;78.0;FDDTWMBMR8
+Women;T-Shirts;Crew Neck T-Shirts;Bamboo;Manning;40.0;4AWZ8EKURD
+Men;Sweatshirts;Crew Neck Sweatshirts;Polyester;Soto;49.0;WJYQXQ2JTD
+Men;Shirts;Chambray Shirts;Linen;Simmons;38.0;46ZBRTNTTM
+Men;Shirts;Flannel Shirts;Corduroy;Chambers;68.0;T7W48QSRAD
+Men;Jeans;Straight Leg Jeans;Corduroy;Cardenas;94.0;WJJMCZB2FE
+Men;Tailoring;Morning Coats;Wool;Becker;231.0;KKK5FEWEVQ
+Men;Accessories;Scarves;Synthetic;Davidson;63.0;Y7REKCBDIQ
+Men;Shirts;Flannel Shirts;Polyester;Orr;66.0;B0QOSQ4ZRM
+Men;Shirts;Casual Shirts;Polyester;Pruitt;43.0;YK3W8615S4
+Women;Accessories;Watches;Synthetic;Mcbride;13.0;DQKE24FPGY
+Women;Jackets;Leather Jackets;Leather;Mckee;88.0;EA4HVVLQVT
+Women;Shorts;Denim Shorts;Denim;Cervantes;32.0;KYQLQDL42Z
+Women;Accessories;Hats;Synthetic;Maynard;66.0;OXKM6N2APR
+Women;Shorts;Denim Shorts;Linen;Harrison;35.0;EE3YALP2GW
+Men;Trousers;Joggers;Linen;Morris;49.0;BKC4TBAU5V
+Men;Shirts;Casual Shirts;Polyester;Allen;75.0;R5ZR06CWGA
+Women;Knitwear;Cardigans;Cashmere;Moore;82.0;NP1PSBJLCV
+Women;Accessories;Watches;Leather;Smith;34.0;DXN0DDK67J
+Women;Shoes;Sneakers;Synthetic;Grimes;189.0;QA9LPCXQSJ
+Women;Tailoring;Vests;Silk;Anderson;108.0;TF1X0SLKIE
+Women;Shoes;Oxfords;Synthetic;Collins;112.0;DVFQEUHIHA
+Men;Shirts;Oxford Shirts;Cotton;Dickerson;70.0;CJDHSVOOIB
+Men;Tailoring;Suits;Corduroy;Martinez;292.0;U5IAYESLO4
+Men;Accessories;Watches;Cotton;Jones;24.0;0G40OZ7HEU
+Men;T-Shirts;Plain Tees;Rayon;Durham;25.0;PIHA9RLCVL
+Men;Sweatshirts;Crew Neck Sweatshirts;Cotton;Edwards;75.0;ZCDA3WQ0WK
+Women;Jeans;High-Waisted Jeans;Polyester;Juarez;70.0;G2LAGOSOT8
+Women;Knitwear;Turtlenecks;Bamboo;Martin;98.0;BVL7HDW3EF
+Women;Trousers;Cropped Trousers;Wool;Booker;53.0;3YSCVKTON5
+Women;Sweatshirts;Oversized Sweatshirts;Polyester;Jennings;42.0;OKM8X41LI9
+Women;Accessories;Sunglasses;Synthetic;Skinner;60.0;3DRBKXYGXR
+Men;Shorts;Chino Shorts;Nylon;Franklin;21.0;VMKOD1WKOZ
+Men;Knitwear;Fine Knit Sweaters;Acrylic;Boone;78.0;0ZS1MFARST
+Men;Shoes;Sneakers;Canvas;Espinoza;146.0;OESOKBIIEZ
+Women;Shirts;Dress Shirts;Rayon;Jackson;29.0;BB4XXENGKN
+Men;Accessories;Belts;Suede;Reynolds;27.0;44NNYNWJQH
+Men;Jeans;Slim Fit Jeans;Denim;Phillips;88.0;VSAOA1X7DL
+Men;Accessories;Jewelry;Silk;Romero;13.0;CADC8TA7IW
+Women;Shoes;Loafers;Synthetic;Hunt;123.0;F6RKPGH3DC
+Men;Jackets;Bomber Jackets;Corduroy;Smith;224.0;0PBTL7CAA2
+Women;Sweatshirts;Oversized Sweatshirts;Cotton;Mitchell;77.0;CUSYN1V3XL
+Men;Shoes;Oxfords;Rubber;Rowe;155.0;J0RVKEYLSA
+Men;Shirts;Chambray Shirts;Linen;Brown;28.0;XNIUN67VR5
+Women;Shorts;Denim Shorts;Cotton;Hansen;39.0;CPP7AJO2PS
+Women;Shorts;Denim Shorts;Nylon;Sellers;57.0;UK1EI8AGZY
+Men;Shoes;Boots;Rubber;Mercado;111.0;6JR3V1OLAN
+Women;Jackets;Windbreakers;Corduroy;Swanson;236.0;Z2W2M6HG44
+Women;Trousers;Wide-Leg Trousers;Viscose;Murphy;93.0;WISCC8SGCM
+Men;Shoes;Dress Shoes;Canvas;West;109.0;3R2QVYKZB1
+Women;Shoes;Sneakers;Leather;Smith;91.0;BX8WSSZKSC
+Women;Shirts;Chambray Shirts;Linen;Klein;49.0;MQHEAF7PRQ
+Men;Trousers;Cargo Pants;Suede;Parker;34.0;PHUDFGUI3S
+Men;Knitwear;Fine Knit Sweaters;Acrylic;Mendez;32.0;OLC9PEX5Z7
+Women;Shirts;Flannel Shirts;Rayon;Mccarthy;42.0;1JVQ6XKREL
+Women;Shoes;Boots;Leather;Fernandez;71.0;KPBRJMEYLB
+Men;Jackets;Bomber Jackets;Cotton;Barton;178.0;ZFJHLEK9UI
+Women;Knitwear;Cardigans;Cotton;Blackwell;73.0;0ZWPXIABWC
+Men;Tailoring;Vests;Polyester;Rodriguez;255.0;VI3ZQDZFF8
+Men;Shoes;Dress Shoes;Rubber;Hayes;189.0;DOBURS1TZX
+Men;Tailoring;Dress Shirts;Cotton;Garza;263.0;XQ3K47FUOP
+Women;Jeans;Skinny Jeans;Elastane;Hatfield;95.0;KDN92O4ZZK
+Women;Knitwear;Sweater Vests;Bamboo;Coleman;31.0;RS6IR9FKI5
+Women;Shirts;Chambray Shirts;Polyester;Fritz;61.0;NASX7SUUTP
+Men;Sweatshirts;Hoodies;Fleece;Dalton;63.0;SMNW6LVJMD
+Women;Sweatshirts;Zip-Up Sweatshirts;Cotton;Carter;85.0;U1BS4WTFLS
+Women;Tailoring;Blazers;Linen;Stewart;159.0;6MGFXIZKH7
+Women;Jackets;Denim Jackets;Leather;Fleming;161.0;U6OO9HKJZM
+Men;Accessories;Watches;Silk;Cortez;35.0;KDYU11IEFM
+Men;Trousers;Cropped Trousers;Linen;Arnold;45.0;NMCFHKVKKL
+Women;Jackets;Blazers;Leather;Jeffrey;184.0;ZB4L4X4JPY
+Men;Shoes;Dress Shoes;Suede;Richard;82.0;5DDIJFUOOL
+Men;Shirts;Flannel Shirts;Polyester;Collins;34.0;RRDCJJG8NN
+Men;Sweatshirts;Fleece Sweatshirts;Bamboo;Fitzpatrick;63.0;1DKOSVBTZR
+Men;Jackets;Denim Jackets;Suede;Johnson;105.0;PWBBP289DI
+Women;Jeans;Distressed Jeans;Denim;Scott;107.0;IJGCONKBSQ
+Men;Knitwear;Pullovers;Cashmere;Tran;52.0;BXWAVDFQIA
+Women;Jackets;Windbreakers;Suede;Moore;245.0;KG8HQNG1VN
+Men;Shorts;Leather Shorts;Denim;Hall;30.0;ORAIZCW9VB
+Men;Shorts;Athletic Shorts;Linen;King;49.0;DOR5RBWWMF
+Women;T-Shirts;Long Sleeve Tees;Bamboo;Lopez;16.0;IDZCLVISC0
+Women;Shorts;Bermuda Shorts;Polyester;White;32.0;ZXKCRT2RPQ
+Men;Shoes;Boots;Rubber;Fields;114.0;TGG4NBXBI2
+Women;Jeans;Bootcut Jeans;Polyester;Cohen;64.0;EUZYQO3ZIH
+Men;Jackets;Denim Jackets;Denim;Miller;152.0;UB6M4WIDOE
+Men;Knitwear;Chunky Knits;Wool;Munoz;28.0;PQDXYOEB8Z
+Men;Shorts;Cargo Shorts;Polyester;Rivas;22.0;2ESYLXMMEF
+Women;Jackets;Parkas;Cotton;Cohen;235.0;DKRNBGWHIT
+Men;Shorts;Bermuda Shorts;Nylon;Mayo;42.0;DVKFTKSVDH
+Men;Jackets;Parkas;Denim;Lam;81.0;TLHSN87T9W
+Men;Knitwear;Sweater Vests;Acrylic;Mason;64.0;RBP94B2PWA
+Men;Sweatshirts;Zip-Up Sweatshirts;Cotton;Johnson;42.0;Q9NCWCGFZM
+Men;Shoes;Oxfords;Leather;Booth;169.0;GR1KEW5KDV
+Men;Jackets;Blazers;Corduroy;Wheeler;136.0;RIEKCGQXQD
+Women;Jeans;Slim Fit Jeans;Cotton;Samantha;70.0;MNQGILJN3K
+Men;Jeans;Bootcut Jeans;Corduroy;Ortiz;79.0;NEQMF8JGHC
+Women;Trousers;Dress Pants;Wool;Stevens;47.0;CUUKQZ0DWD
+Women;Knitwear;Chunky Knits;Acrylic;Weeks;72.0;5A13Z6HWQG
+Men;Shoes;Boots;Rubber;Knight;69.0;RPFUJWX8Y2
+Women;Shoes;Derbys;Synthetic;Wyatt;171.0;WZ6O2ZOWRN
+Women;Jackets;Windbreakers;Cotton;Smith;165.0;ARNMNHJDR6
+Women;Jeans;Distressed Jeans;Elastane;Sanders;66.0;KD0RKNFAGD
+Men;Sweatshirts;Fleece Sweatshirts;Wool;Robinson;77.0;DJBDRFSXDU
+Men;Sweatshirts;Graphic Sweatshirts;Cotton;Foster;57.0;AOQWBZMYZO
+Men;T-Shirts;Graphic Tees;Linen;Holder;19.0;C6XUM1QOIC
+Men;Tailoring;Suits;Linen;Fernandez;213.0;JAK9HKFOHP
+Men;Jackets;Leather Jackets;Cotton;Williams;212.0;4FELBZHYEM
+Men;Knitwear;Sweater Vests;Wool;Barron;52.0;OJKDX0CMVD
+Women;Sweatshirts;Zip-Up Sweatshirts;Bamboo;Johnson;59.0;WAQKGCND37
+Women;Shorts;Chino Shorts;Nylon;Thomas;54.0;OI2GP2URXR
+Women;Jackets;Windbreakers;Polyester;Harris;179.0;3KNSSQK16K
+Women;Shoes;Sandals;Leather;Newman;126.0;W2QZL3KLK2
+Men;Shoes;Sneakers;Leather;Allen;118.0;KS7C5FRWT3
+Men;Knitwear;Pullovers;Acrylic;Mendoza;61.0;YUHHFJCENB
+Women;Shirts;Linen Shirts;Polyester;Daniel;36.0;PTAIQ3EPQJ
+Women;Tailoring;Vests;Corduroy;Hernandez;215.0;TFEKLD6IYF
+Men;Jackets;Parkas;Cotton;Rose;76.0;YSRYCQPHLP
+Men;T-Shirts;Henley Shirts;Linen;Bates;44.0;6C2GJDKRZC
+Men;Shorts;Denim Shorts;Cotton;Henderson;37.0;BAGTBYH3Y6
+Women;Shoes;Loafers;Suede;Rodriguez;63.0;YIB76UV4NQ
+Men;Sweatshirts;Hoodies;Fleece;Johnston;65.0;I00SFFCYCE
+Men;Knitwear;Sweater Vests;Wool;Rubio;81.0;CG5YASWV6X
+Women;Tailoring;Suits;Polyester;Schmidt;237.0;0RTQKMP1PP
+Men;T-Shirts;Long Sleeve Tees;Bamboo;Jones;27.0;NKNR4JASCL
+Men;Shoes;Dress Shoes;Canvas;Stephens;133.0;1KFYC3VJIR
+Men;Shorts;Cargo Shorts;Cotton;Clark;23.0;SAQRVKGZYK
+Men;T-Shirts;Crew Neck T-Shirts;Bamboo;Smith;35.0;U0XWKVOJVV
+Men;Shorts;Denim Shorts;Linen;James;50.0;EVDBVWMLHZ
+Women;Jeans;High-Waisted Jeans;Elastane;Thomas;71.0;IPLXWALRB8
+Men;Tailoring;Vests;Polyester;Ryan;188.0;2CXLITJYWZ
+Women;Trousers;Wide-Leg Trousers;Viscose;Cunningham;99.0;SWPTSTUZTP
+Women;Shoes;Sneakers;Canvas;Flores;82.0;B7MPTWZGAB
+Women;Accessories;Cufflinks;Suede;Cobb;66.0;X0VHNDLSXO
+Women;Shirts;Flannel Shirts;Polyester;Chambers;67.0;6KSXN7W8MW
+Men;Accessories;Jewelry;Suede;Nixon;70.0;KKVVS1IMHU
+Women;Jackets;Leather Jackets;Denim;Williams;104.0;WTOOER67NR
+Men;Shirts;Oxford Shirts;Linen;Harding;67.0;9S9213K3XI
+Men;Shoes;Oxfords;Synthetic;Cox;57.0;NSKZDNVLEA
+Men;Tailoring;Dress Shirts;Polyester;Rodriguez;275.0;4RY3BLEGJN
+Men;Knitwear;Fine Knit Sweaters;Acrylic;Johnson;97.0;FJVGAZ9JYP
+Men;Shorts;Denim Shorts;Nylon;Harper;23.0;OQ5SM2QLIO
+Men;Jeans;Straight Leg Jeans;Elastane;Wells;104.0;CDW8LZG52X
+Men;Knitwear;Fine Knit Sweaters;Bamboo;Carlson;90.0;K4ICDKNXPH
+Women;Tailoring;Dress Shirts;Corduroy;Schaefer;288.0;EZCJXF52FR
+Men;T-Shirts;Henley Shirts;Bamboo;Webb;37.0;XPCY7CGZNP

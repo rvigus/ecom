@@ -1,0 +1,4 @@
+faker
+Flask
+boto3
+pandas
