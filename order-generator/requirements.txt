@@ -2,3 +2,4 @@ faker
 Flask
 boto3
 pandas
+google-cloud-storage

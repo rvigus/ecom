@@ -1,5 +1,7 @@
 *.ipynb_checkpoints
 *.idea
+gcp-secrets.json
+*secrets*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
